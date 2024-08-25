@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://harrythedevopsguy.github.io
 baseurl : /articles
-title   : TeXt Theme
+title   : MyDigitalGarden
 description: >
-  A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
+  This is my Digital Garden.
 
 
 ## => Language and Timezone
