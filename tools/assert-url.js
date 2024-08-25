@@ -3,7 +3,7 @@ var path = require('path');
 var fs = require('fs');
 
 var imgRg = /!\[([^\]]*)\]\((\/[^/]\S*)\)/gm;
-var basePath = 'https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master';
+var basePath = 'https://raw.githubusercontent.com/HarryTheDevOpsGuy/articles/dev';
 var srcPaths = ['./test/_posts', './docs/en', './docs/zh'];
 
 function runner() {
