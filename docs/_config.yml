@@ -51,13 +51,13 @@ author:
   zhihu     :
   douban    :
   linkedin  :
-  github    : harrythedevopsguy/articles
+  github    : HarryTheDevOpsGuy/articles
   npm       :
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: harrythedevopsguy/articles
+repository: HarryTheDevOpsGuy/articles
 repository_tree: dev
 
 
