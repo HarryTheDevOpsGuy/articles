@@ -18,8 +18,8 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://kitian616.github.io
-baseurl : /jekyll-TeXt-theme
+url     : https://harrythedevopsguy.github.io
+baseurl : /articles
 title   : TeXt Theme
 description: >
   A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
@@ -28,7 +28,7 @@ description: >
 ## => Language and Timezone
 ##############################
 lang: en # the language of your site, default as "en"
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 
 ## => Author and Social
@@ -51,14 +51,14 @@ author:
   zhihu     :
   douban    :
   linkedin  :
-  github    : kitian616/jekyll-TeXt-theme
+  github    : harrythedevopsguy/articles
   npm       :
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: kitian616/jekyll-TeXt-theme
-repository_tree: master
+repository: harrythedevopsguy/articles
+repository_tree: dev
 
 
 ## => Paths
