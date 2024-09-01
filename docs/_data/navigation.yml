@@ -4,6 +4,10 @@ header:
   - title:      Docs
     url:        /docs/en/quick-start
     key:        docs
+
+  - title:      Apps
+    url:        /docs/apps
+    key:        docs
   - title:      Samples
     url:        /samples.html
     key:        samples
