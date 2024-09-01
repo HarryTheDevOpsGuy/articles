@@ -7,7 +7,7 @@ header:
 
   - title:      Apps
     url:        /docs/apps
-    key:        docs
+    key:        apps
   - title:      Samples
     url:        /samples.html
     key:        samples
