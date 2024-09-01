@@ -261,7 +261,7 @@ defaults:
 
   ## Apps
   - scope:
-      path: "_docs/apps"
+      path: "_docs/mlog"
     values:
       layout: article
       nav_key: apps
