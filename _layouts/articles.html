@@ -30,12 +30,11 @@ layout: page
 {%- endfor -%}
 
 {%- assign _type = page.articles.type | default: layout.articles.type -%}
-<p> this is before _articles</p>
+
 {%- if _articles -%}
 
   <div class="layout--articles">
 
-    <p> this is after _articles</p>
     {%- if _type == 'grid' -%}
       {%- if page.articles.size == 'sm' -%}
         {%- include article-list.html articles=_articles type='grid' size='sm' -%}

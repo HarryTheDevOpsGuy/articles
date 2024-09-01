@@ -15,6 +15,14 @@ header:
     url:        https://github.com/kitian616/jekyll-TeXt-theme
 
 
+docs-apps:
+  - title:      mLog
+    children:
+      - title:  Quick Start
+        url:    /docs/apps/mlog/quick-start
+      - title:  Structure
+        url:    /docs/apps/mlog
+
 docs-en:
   - title:      Start
     children:
