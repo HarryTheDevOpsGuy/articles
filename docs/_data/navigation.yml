@@ -6,8 +6,9 @@ header:
     key:        docs
 
   - title:      Apps
-    url:        /docs/apps
+    url:        /docs/apps/mlog/
     key:        apps
+
   - title:      Samples
     url:        /samples.html
     key:        samples
