@@ -264,7 +264,7 @@ defaults:
       path: "_docs/apps"
     values:
       layout: article
-      nav_key: docs
+      nav_key: apps
       sidebar:
         nav: docs-apps
       license: true
