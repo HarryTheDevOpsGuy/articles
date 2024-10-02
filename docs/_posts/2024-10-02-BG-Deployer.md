@@ -5,7 +5,7 @@ key: 20241002
 aside:
   toc: true
 sidebar:
-  nav: layouts
+  nav: archive
 ---
 
 Hi everyone, 
