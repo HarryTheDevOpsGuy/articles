@@ -23,10 +23,17 @@ header:
 docs-apps:
   - title:      mLog
     children:
-      - title:  Quick Start
-        url:    /docs/apps/mlog/quick-start
-      - title:  Structure
+      - title:  Getting Started with mLog
         url:    /docs/apps/mlog
+      - title:  Examples
+        url:    /docs/apps/mlog-examples
+
+  - title:      mCert
+    children:
+      - title:  Getting Started with mCert
+        url:    /docs/apps/mcert
+      - title:  Examples
+        url:    /docs/apps/mcert-examples
 
 docs-en:
   - title:      Start
