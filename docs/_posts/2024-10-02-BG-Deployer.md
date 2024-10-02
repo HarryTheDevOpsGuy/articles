@@ -1,7 +1,11 @@
 ---
-title: BG-Deployer - Automated BlueGreen Deployment without any downtime 
+layout: article
+title: BG-Deployer - Automated BlueGreen Deployment without any downtime
 key: 20241002
-tags: howtos
+aside:
+  toc: true
+sidebar:
+  nav: layouts
 ---
 
 Hi everyone, 
