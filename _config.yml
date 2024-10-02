@@ -253,6 +253,22 @@ defaults:
       layout: article
       nav_key: samples
       show_date: false
+      
+  ## Apps
+  - scope:
+      path: "_docs/mlog"
+    values:
+      layout: article
+      nav_key: apps
+      sidebar:
+        nav: docs-apps
+      license: true
+      aside:
+        toc: true
+      show_edit_on_github: true
+      show_date: false
+      # lightbox: true
+
   ## docs
   - scope:
       path: "_docs/en"
