@@ -6,7 +6,7 @@ header:
     key:        docs
 
   - title:      Apps
-    url:        /docs/mlog/quick-start
+    url:        /docs/apps
     key:        apps
 
   - title:      Samples
