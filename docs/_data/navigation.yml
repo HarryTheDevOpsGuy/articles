@@ -34,6 +34,10 @@ docs-apps:
         url:    /docs/apps/mcert
       - title:  Examples
         url:    /docs/apps/mcert-examples
+  - title:      gCrypt
+    children:
+      - title:  Getting Started with gCrypt
+        url:    /docs/apps/gcrypt
 
 docs-en:
   - title:      Start
