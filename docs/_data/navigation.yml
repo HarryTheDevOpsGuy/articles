@@ -1,9 +1,9 @@
 header:
   - title:      Home
     url:        /test/
-  - title:      Docs
-    url:        /docs/en/quick-start
-    key:        docs
+  # - title:      Docs
+  #   url:        /docs/en/quick-start
+  #   key:        docs
 
   - title:      Apps
     url:        /docs/apps
@@ -36,15 +36,6 @@ docs-apps:
         url:    /docs/apps/mcert-examples
 
 docs-en:
-  - title:      Start
-    children:
-      - title:  Quick Start
-        url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
-      - title:  Update from 1.x to 2.x
-        url:    /docs/en/update-from-1-to-2
-
   - title:      Start
     children:
       - title:  Quick Start
