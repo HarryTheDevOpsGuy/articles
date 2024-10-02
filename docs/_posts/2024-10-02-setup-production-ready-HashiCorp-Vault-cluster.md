@@ -1,5 +1,5 @@
 ---
-title: BG-Deployer - Automated BlueGreen Deployment without any downtime
+title: Setup Production-ready HashiCorp Vault cluster
 key: 20241002
 tags: TeXt
 aside:
