@@ -6,7 +6,7 @@ header:
   #   key:        docs
 
   - title:      Apps
-    url:        /docs/apps
+    url:        /docs/apps/home
     key:        apps
 
   - title:      Samples
