@@ -5,7 +5,7 @@ key: 20241002
 aside:
   toc: true
 sidebar:
-  nav: archive
+  nav: docs-apps
 ---
 
 Hi everyone, 
