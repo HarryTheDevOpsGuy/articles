@@ -2,7 +2,6 @@
 title: Setup Production-ready HashiCorp Vault cluster
 key: 20241002
 tags: howtos
-modify_date: 2017-09-09
 author: Harry - The DevOps Guy
 show_author_profile: true
 aside:

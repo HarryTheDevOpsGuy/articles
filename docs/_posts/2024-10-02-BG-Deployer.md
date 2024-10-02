@@ -1,7 +1,7 @@
 ---
 title: BG-Deployer - Automated BlueGreen Deployment without any downtime
 key: 20241002
-tags: TeXt
+tags: howtos
 aside:
   toc: true
 ---
