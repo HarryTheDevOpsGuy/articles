@@ -1,5 +1,5 @@
 ---
-title: Setup Production-ready Redis Sentinel
+title: Linux OS hardening Step by step guide for CIS compliance
 key: 20241002
 tags: howtos
 author: Harry - The DevOps Guy
