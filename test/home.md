@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 articles: 
     type: brief
     article_type: BlogPosting
