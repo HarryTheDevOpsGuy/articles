@@ -1,5 +1,6 @@
 ---
 layout: article
+title: Hari Prasad | 11 Years 
 key: myresume
 aside:
   toc: true
@@ -27,12 +28,12 @@ permalink: /resume-v2.html
 
 ### 🏢 One97 Communications Limited
 👨‍💻 **Sr. DevOps Lead** | 📍 Noida | 🗓️ Mar-20 – Present 
-
-- Architected and automated **multi-region AWS infrastructure**, improving scalability by 40%.  
-- Developed CI/CD pipelines with **Jenkins as Code** and **GitHub Actions**, reducing deployment times by 50%.  
-- Orchestrated Kubernetes clusters with **Helm** and **Helmfile**, enhancing deployment efficiency.  
-- Integrated **Prometheus stack** for proactive monitoring, reducing incident MTTR by 30%.  
-- Automated server provisioning using **Terraform** and **Ansible**, ensuring consistent environments.
+    
+- 🚀 Optimized Kubernetes clusters with **Helm** and **Helmfile**, ensuring 99.99% uptime. 
+- 📈 Automated infrastructure provisioning using **Ansible**, **Terraform** and **Packer**.
+- 🐙 Built and deployed CI/CD pipelines with **Jenkins as Code** and **Groovy scripting**, reducing release times by 40%.
+- 🌐 Implemented centralized logging using the **ELK Stack**, improving troubleshooting efficiency.
+- 🔧 Developed a fully automated **blue-green deployment** pipeline with **0 downtime** using **AWS ALB and ASG**.
 
 ### 🏢 Ziploan
 👨‍💻 **Sr. DevOps Engineer** | 📍 Delhi | 🗓️ Oct-19 – Mar-20
