@@ -7,7 +7,7 @@ aside:
 permalink: /resume-v2.html
 ---
 
-# ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:120px"} **Hari Prasad**
+# ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:80px"} **Hari Prasad**
 **🚀 DevOps Architect | 🌐 Cloud Enthusiast | 📈 CI/CD Specialist**  
 📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com) | 📞 [7503721297](tel:+917503721297) | 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) | 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
 
