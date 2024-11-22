@@ -66,11 +66,11 @@ permalink: /resume-v2.html
 - Supporting dev team for any hardware & networking issue.  
 - Managing MS SQL Server and windows applications.
 
-## 📘 Education
+## 📚 Education
 
 🎓 **Bachelor of Commerce** | Delhi University | 🗓️ 2014 
-🎓 **Senior Secondary School** | CBSE, Delhi | 🗓️ 2010
-🎓 **High School** | CBSE, Delhi | 🗓️ 2008
+📜 **Senior Secondary School** | CBSE, Delhi | 🗓️ 2010
+📘 **High School** | CBSE, Delhi | 🗓️ 2008
 
 
 ## 🛠️ Notable Projects
