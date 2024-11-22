@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Hari Prasad | 11 Years 
+title: Hari Prasad | DevOps Lead | 11+ Years
 key: myresume
 aside:
   toc: true
