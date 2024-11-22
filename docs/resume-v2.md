@@ -1,5 +1,6 @@
 ---
 title: Resume4
+layout: article
 key: myresume
 aside:
   toc: true
