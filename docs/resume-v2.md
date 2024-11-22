@@ -3,6 +3,7 @@ title: Resume4
 key: myresume
 aside:
   toc: true
+permalink: /resume-v2.html
 ---
 
 # ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:120px"} **Hari Prasad**
