@@ -82,7 +82,7 @@ permalink: /resume-v2.html
 Extended **Nginx metrics collection** for **Prometheus**, adding custom metrics such as SSL handshakes, api wise status code and p99 latencies, enabling precise performance analysis.
 
 ### 🌟 Karpenter on EKS  
-Deployed **Karpenter** in **EKS clusters**, to manager worker nodes dynamically and reduced wasted of resources. 
+Deployed **Karpenter** in **EKS clusters**, to manage worker nodes dynamically and minimise wastage of resources. 
 
 ### 🌟 Packer All in one Solution  
 Build Dynamic AMI Creation solution using Shell Script, Packer, Ansible, Cloud-init, Jenkins to multi-platform(Dabian, and redhat) AWS Golden Images.
