@@ -59,7 +59,7 @@ permalink: /resume-v2.html
 - Oversee non-production infrastructure operations.
 
 ### 🏢 Dental Council Of India (DCI)    
-👨‍💻 **Desktop Support Engineer** | 📍 Gurugram | 🗓️ 2013 – 2015
+👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ 2013 – 2015
 
 - Working closely with desktop and laptop users support Technical issues.   
 - Supporting dev team for any hardware & networking issue.  
