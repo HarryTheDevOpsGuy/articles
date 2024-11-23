@@ -122,7 +122,7 @@ permalink: /resume-v3.html
 
   </div>
 </div>
-<button onclick="printDiv('printMe')">Print only the above div</button>
+<a href="javascript:void(0);" onclick="printPageArea('printMe')">Print</a>
 </div>
 
 
