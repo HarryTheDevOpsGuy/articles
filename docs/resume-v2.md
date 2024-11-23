@@ -15,7 +15,7 @@ show_author_profile: false
 📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com) | 📞 [7503721297](tel:+917503721297) | 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) | 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
 
 
-<div class="grid">
+ <div class="grid">
   <div class="cell cell--12 cell--lg-8 content" markdown="1">
 
 ## 👨‍💻 **Professional Summary** 
@@ -29,8 +29,9 @@ show_author_profile: false
 - 📜 **Senior Secondary School** - CBSE, Delhi - 2010
 - 📘 **High School** - CBSE, Delhi - 2008
 
+
   </div>
-</div>
+ </div>
 
 
 
