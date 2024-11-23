@@ -67,7 +67,7 @@ permalink: /resume-v3.html
   - Provision new infra from scratch and support to make it live.
   - Implemented monitoring using cloudwatch and sns, lambda functions.  
 
-### 🏢 Xeliumtech  
+### 🏢 Xeliumtech Solutions  
 👨‍💻 **Linux System Administrator (DevOps)** | 📍 Gurugram | 🗓️ 2015 – 2017
 
   - Provision and configure virtual machines to host multiple websites utilizing a LAMP stack architecture.
