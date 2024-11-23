@@ -123,7 +123,7 @@ permalink: /resume-v3.html
 </div>
 
 <!-- Below is not printable -->
-<div class="grid d-print-none" markdown="1">
+<div class="d-print-none" markdown="1">
 
 
 ## 🛠️ Notable Projects
