@@ -42,18 +42,12 @@ permalink: /resume-v3.html
 | AWS, Terraform, Kubernetes, Argocd, Karpenter, ELK Stack, Packer, Prometheus, OpenResty/Nginx, Grafana        | ⭐⭐⭐⭐    | 
 | Python, Redis, Kafka, Groovy Script, Nexus, MySQL, Helm, Helmfile, GitHub Actions,                         | ⭐⭐⭐      | 
 
-
   </div>
   <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
 
 ## 📚 Languages
-
-| **🛠️Language** | **Proficiancy**    | 
-|------------------|------------------|
-| 🎓 **Hindi**      | ⭐⭐⭐⭐           |
-| 📜 **English**    | ⭐⭐⭐⭐           |
-
-
+  - 🎓 **Hindi** - ⭐⭐⭐⭐
+  - 📜 **English** - ⭐⭐⭐⭐
   </div>
 </div>
 
