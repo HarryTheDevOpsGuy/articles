@@ -11,13 +11,13 @@ permalink: /resume-v3.html
 ---
 
 <div class="grid" markdown="1">
-  <div class="cell cell--12 cell--md-7 cell--lg-7 content" markdown="1">
+  <div class="cell cell--12 cell--md-9 cell--lg-9 content" markdown="1">
 
 # ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:70px"} **Hari Prasad**
 **🚀 DevOps Architect | 🌐 Cloud Enthusiast | 📈 CI/CD Specialist** 
 
   </div>
-  <div class="cell cell--12 cell--md-5 cell--lg-5 content" markdown="1">
+  <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
 
   - 📧 [HarrytheDevOpsGuy](mailto:HarrytheDevOpsGuy@gmail.com) 
   - 📞 [7503721297](tel:+917503721297)
