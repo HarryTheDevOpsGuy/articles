@@ -18,9 +18,11 @@ permalink: /resume-v3.html
   </div>
 
   <div class="cell cell--5 cell--md-5 cell--lg-5 content pr-1" markdown="1">
-  
+
+📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com)<br>
+🚀 DevOps Architect | 📈 CI/CD Specialist 
 # **Hari Prasad**
-🚀 DevOps Architect | 📈 CI/CD Specialist
+
 
   </div>
   <div class="cell cell--5 cell--md-5 cell--lg-5 content" markdown="1">
