@@ -114,6 +114,7 @@ permalink: /resume-v3.html
 [ELK Stack](#){:.button.button--outline-success.button--rounded.button--xs}
 [Packer](#){:.button.button--outline-success.button--rounded.button--xs}
 [Prometheus](#){:.button.button--outline-success.button--rounded.button--xs}
+[Helm](#){:.button.button--outline-info.button--rounded.button--xs}
 
 🎓 Ansible | ⭐⭐⭐⭐⭐
 📜 Jenkins | ⭐⭐⭐⭐⭐
