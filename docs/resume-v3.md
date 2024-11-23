@@ -97,34 +97,34 @@ permalink: /resume-v3.html
 🏫 **High School** - CBSE, Delhi - 2008<br>
 
 ## 💬 Languages
-🎓 **Hindi** - ⭐⭐⭐⭐<br>
-📜 **English** - ⭐⭐⭐⭐
+🎓 Hindi - ⭐⭐⭐⭐<br>
+📜 English - ⭐⭐⭐⭐
 
 ## 🌟 Ratings
-🎓 **Ansible** - ⭐⭐⭐⭐⭐<br>
-📜 **Jenkins** - ⭐⭐⭐⭐⭐<br>
-📜 **Telegraf** - ⭐⭐⭐⭐⭐<br>
-📜 **Shell Script** - ⭐⭐⭐⭐⭐<br>
-📜 **AWS** - ⭐⭐⭐⭐<br>
-📜 **Terraform** - ⭐⭐⭐⭐<br>
-📜 **Kubernetes** - ⭐⭐⭐⭐<br>
-📜 **Argocd** - ⭐⭐⭐⭐<br>
-📜 **Karpenter** - ⭐⭐⭐⭐<br>
-📜 **ELK Stack** - ⭐⭐⭐⭐<br>
-📜 **Packer** - ⭐⭐⭐⭐<br>
-📜 **Prometheus** - ⭐⭐⭐⭐<br>
-📜 **OpenResty** - ⭐⭐⭐⭐<br>
-📜 **Nginx** - ⭐⭐⭐⭐<br>
-📜 **Grafana** - ⭐⭐⭐⭐<br>
-📜 **Redis** - ⭐⭐⭐<br>
-📜 **Python** - ⭐⭐⭐<br>
-📜 **Kafka** - ⭐⭐⭐<br>
-📜 **Groovy** - ⭐⭐⭐<br>
-📜 **Nexus** - ⭐⭐⭐<br>
-📜 **MySQL** - ⭐⭐⭐<br>
-📜 **Helm** - ⭐⭐⭐<br>
-📜 **Helmfile** - ⭐⭐⭐<br>
-📜 **GitHub Actions** - ⭐⭐⭐⭐<br>
+🎓 Ansible - ⭐⭐⭐⭐⭐<br>
+📜 Jenkins - ⭐⭐⭐⭐⭐<br>
+📜 Telegraf - ⭐⭐⭐⭐⭐<br>
+🐚 Shell Script - ⭐⭐⭐⭐⭐<br>
+☁️ AWS - ⭐⭐⭐⭐<br>
+📜 Terraform - ⭐⭐⭐⭐<br>
+☸️ Kubernetes - ⭐⭐⭐⭐<br>
+📜 Argocd - ⭐⭐⭐⭐<br>
+🔨 Karpenter - ⭐⭐⭐⭐<br>
+🔎 ELK Stack - ⭐⭐⭐⭐<br>
+📦 Packer - ⭐⭐⭐⭐<br>
+📜 Prometheus - ⭐⭐⭐⭐<br>
+📜 OpenResty - ⭐⭐⭐⭐<br>
+📜 Nginx - ⭐⭐⭐⭐<br>
+📜 Grafana - ⭐⭐⭐⭐<br>
+📜 Redis - ⭐⭐⭐<br>
+🐍 Python - ⭐⭐⭐<br>
+📜 Kafka - ⭐⭐⭐<br>
+📜 Groovy - ⭐⭐⭐<br>
+📜 Nexus - ⭐⭐⭐<br>
+📜 MySQL - ⭐⭐⭐<br>
+📜 Helm - ⭐⭐⭐<br>
+📜 Helmfile - ⭐⭐⭐<br>
+📜 GitHub Actions - ⭐⭐⭐⭐<br>
 
   </div>
 </div>
