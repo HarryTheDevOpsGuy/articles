@@ -14,6 +14,7 @@ permalink: /resume-v3.html
   <div class="cell cell--12 cell--md-7 cell--lg-7 content pr-1" markdown="1">
 
 ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:80px"} **Hari Prasad**
+🚀 DevOps Architect | 📈 CI/CD Specialist
 
   </div>
   <div class="cell cell--12 cell--md-5 cell--lg-5 content" markdown="1">
@@ -100,6 +101,15 @@ permalink: /resume-v3.html
 📜 English - ⭐⭐⭐⭐
 
 ## 🌟 Ratings
+
+[Ansible](#){:.button.button--primary.button--rounded.button--xs}
+[Jenkins](#){:.button.button--primary.button--rounded.button--xs}
+[Telegraf](#){:.button.button--primary.button--rounded.button--xs}
+[Shell Script](#){:.button.button--primary.button--rounded.button--xs}
+[AWS](#){:.button.button--primary.button--rounded.button--xs}
+[Terraform](#){:.button.button--primary.button--rounded.button--xs}
+[Kubernetes](#){:.button.button--primary.button--rounded.button--xs}
+[Argocd](#){:.button.button--primary.button--rounded.button--xs}
 
 🎓 Ansible | ⭐⭐⭐⭐⭐
 📜 Jenkins | ⭐⭐⭐⭐⭐
