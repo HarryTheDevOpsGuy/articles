@@ -6,8 +6,8 @@ aside:
   toc: true
 permalink: /resume-v2.html
 
-author: HarryTheDevOpsGuy
-show_author_profile: false
+#author: HarryTheDevOpsGuy
+#show_author_profile: true
 ---
 
 # ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:70px"} **Hari Prasad**
@@ -15,9 +15,22 @@ show_author_profile: false
 📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com) | 📞 [7503721297](tel:+917503721297) | 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) | 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
 
 
+<div class="grid" markdown="1">
+  <div class="cell cell--12 cell--md-8 cell--lg-8 content" markdown="1">
+
 ## 👨‍💻 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
 
+  </div>
+  <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
+
+## 📚 Education
+- 🎓 **Bachelor of Commerce** - Delhi University - 2014 
+- 📜 **Senior Secondary School** - CBSE, Delhi - 2010
+- 📘 **High School** - CBSE, Delhi - 2008
+
+  </div>
+</div>
 
 ## 🎯 Technical Skills & Rating
 
