@@ -25,6 +25,7 @@ permalink: /resume-v3.html
   </div>
   <div class="cell cell--shrink content" markdown="1">
 
+![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:80px"}
 📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com) <br>
 📞 [7503721297](tel:+917503721297)
 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
