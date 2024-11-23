@@ -27,26 +27,11 @@ permalink: /resume-v3.html
   </div>
 </div>
 
-
 <div class="grid" markdown="1">
-  <div class="cell cell--12 cell--md-8 cell--lg-8 content pr-1" markdown="1">
+  <div class="cell cell--12 cell--md-9 cell--lg-9 content pr-1" markdown="1">
 
 ## 👨‍💻 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
-
-  </div>
-  <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
-
-## 📚 Education
-🎓 **Bachelor of Commerce** - Delhi University - 2014<br>
-📜 **Senior Secondary School** - CBSE, Delhi - 2010<br>
-📘 **High School** - CBSE, Delhi - 2008<br>
-
-  </div>
-</div>
-
-<div class="grid" markdown="1">
-  <div class="cell cell--12 cell--md-8 cell--lg-8 content pr-1" markdown="1">
 
 ## 🎯 Technical Skills & Rating
 
@@ -101,7 +86,12 @@ permalink: /resume-v3.html
 
 
   </div>
-  <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
+  <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
+
+## 📚 Education
+🎓 **Bachelor of Commerce** - Delhi University - 2014<br>
+📜 **Senior Secondary School** - CBSE, Delhi - 2010<br>
+📘 **High School** - CBSE, Delhi - 2008<br>
 
 ## 📚 Languages
 🎓 **Hindi** - ⭐⭐⭐⭐<br>
