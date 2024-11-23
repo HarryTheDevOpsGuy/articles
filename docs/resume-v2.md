@@ -6,7 +6,7 @@ aside:
   toc: true
 permalink: /resume-v2.html
 
-author: Hari Prasad
+author: Harry The DevOps Guy
 show_author_profile: true
 ---
 
