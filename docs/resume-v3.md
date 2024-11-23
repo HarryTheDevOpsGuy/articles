@@ -143,14 +143,14 @@ Build Dynamic AMI Creation solution using Shell Script, Packer, Ansible, Cloud-i
 
 ## 📈 Personal Highlights
 
-- 🏆 **Awarded Best DevOps Engineer** for automating CI/CD pipelines and optimizing cloud infrastructure.  
-- ✍️ **Technical Blogger**: Published articles on **DevOps, Automation, Cloud, Linux** and **Kubernetes scaling** on [MyDigital Garden](https://harrythedevopsguy.github.io/articles/archive.html).  
-- 👩‍💻 **Open Source Contributor**: Contributed to **Helm charts** for scaling applications. 
+  - 🏆 **Awarded Best DevOps Engineer** for automating CI/CD pipelines and optimizing cloud infrastructure.  
+  - ✍️ **Technical Blogger**: Published articles on **DevOps, Automation, Cloud, Linux** and **Kubernetes scaling** on [MyDigital Garden](https://harrythedevopsguy.github.io/articles/archive.html).  
+  - 👩‍💻 **Open Source Contributor**: Contributed to **Helm charts** for scaling applications. 
 
 ## 🌐 Technical Blog Highlights  
 
-- **"Configuring ModSecurity with OpenResty for Web Security"**  
-- **"Kubernetes Cluster Scaling with Karpenter"**  
-- **"Terraform Best Practices for Multi-Environment Deployments"**
+  - **"Configuring ModSecurity with OpenResty for Web Security"**  
+  - **"Kubernetes Cluster Scaling with Karpenter"**  
+  - **"Terraform Best Practices for Multi-Environment Deployments"**
 
 </div>
