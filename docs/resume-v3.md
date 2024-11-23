@@ -4,7 +4,7 @@ title: Hari Prasad | DevOps Lead | 11+ Years
 key: myresume
 aside:
   toc: true
-permalink: /resume-v2.html
+permalink: /resume-v3.html
 
 #author: HarryTheDevOpsGuy
 #show_author_profile: true
