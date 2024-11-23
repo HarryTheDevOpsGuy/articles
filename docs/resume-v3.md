@@ -102,14 +102,18 @@ permalink: /resume-v3.html
 
 ## 🌟 Ratings
 
-[Ansible](#){:.button.button--primary.button--rounded.button--xs}
-[Jenkins](#){:.button.button--primary.button--rounded.button--xs}
-[Telegraf](#){:.button.button--primary.button--rounded.button--xs}
-[Shell Script](#){:.button.button--primary.button--rounded.button--xs}
-[AWS](#){:.button.button--primary.button--rounded.button--xs}
-[Terraform](#){:.button.button--primary.button--rounded.button--xs}
+[Ansible](#){:.button.button--success.button--rounded.button--xs}
+[Jenkins](#){:.button.button--success.button--rounded.button--xs}
+[Telegraf](#){:.button.button--success.button--rounded.button--xs}
+[Shell Script](#){:.button.button--success.button--rounded.button--xs}
+[AWS](#){:.button.button--primary.success--rounded.button--xs}
+[Terraform](#){:.button.button--success.button--rounded.button--xs}
 [Kubernetes](#){:.button.button--primary.button--rounded.button--xs}
 [Argocd](#){:.button.button--primary.button--rounded.button--xs}
+[Karpenter](#){:.button.button--primary.button--rounded.button--xs}
+[ELK Stack](#){:.button.button--outline-success.button--rounded.button--xs}
+[Packer](#){:.button.button--outline-success.button--rounded.button--xs}
+[Prometheus](#){:.button.button--outline-success.button--rounded.button--xs}
 
 🎓 Ansible | ⭐⭐⭐⭐⭐
 📜 Jenkins | ⭐⭐⭐⭐⭐
