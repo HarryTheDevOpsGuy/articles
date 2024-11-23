@@ -119,13 +119,14 @@ permalink: /resume-v3.html
 [English](#){:.button.button--outline-success.button--rounded.button--sm}
 [Hindi](#){:.button.button--outline-success.button--rounded.button--sm}
 
-### 🐙 Github Projects
-[mCert](https://github.com/HarryTheDevOpsGuy/mCert){:.button.button--outline-success.button--rounded.button--sm}
-[mStatus](https://github.com/HarryTheDevOpsGuy/mStatus){:.button.button--outline-success.button--rounded.button--sm}
-[mSend](https://github.com/HarryTheDevOpsGuy/mSend){:.button.button--outline-success.button--rounded.button--sm}
-[mLog](https://github.com/HarryTheDevOpsGuy/mLog){:.button.button--outline-success.button--rounded.button--sm}
-[mTracker](https://github.com/HarryTheDevOpsGuy/mTracker){:.button.button--outline-success.button--rounded.button--sm}
-[mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher){:.button.button--outline-success.button--rounded.button--sm}
+#### 🐙 Github Projects
+
+  [mCert](https://github.com/HarryTheDevOpsGuy/mCert){:.button.button--outline-success.button--rounded.button--sm}
+  [mStatus](https://github.com/HarryTheDevOpsGuy/mStatus){:.button.button--outline-success.button--rounded.button--sm}
+  [mSend](https://github.com/HarryTheDevOpsGuy/mSend){:.button.button--outline-success.button--rounded.button--sm}
+  [mLog](https://github.com/HarryTheDevOpsGuy/mLog){:.button.button--outline-success.button--rounded.button--sm}
+  [mTracker](https://github.com/HarryTheDevOpsGuy/mTracker){:.button.button--outline-success.button--rounded.button--sm}
+  [mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher){:.button.button--outline-success.button--rounded.button--sm}
 
   </div>
 </div>
