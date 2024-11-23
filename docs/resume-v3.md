@@ -57,20 +57,19 @@ permalink: /resume-v3.html
 
 ### 🏢 Ziploan
 👨‍💻 **Sr. DevOps Engineer** | 📍 Delhi | 🗓️ Oct-19 – Mar-20
-
-  - Migrated on-premises applications to **AWS**, resulting in a 50% reduction in hosting costs.  
-  - Implemented **blue-green deployments** using ALB, ASG, and Jenkins pipelines.  
-  - Configured and optimized **ELK stack** for centralized logging and real-time analytics.  
-  - Streamlined server builds with **Packer**, reducing setup times by 60%.  
+  🔄 Migrated on-premises applications to **AWS**, resulting in a 50% reduction in hosting costs.  
+  <br>🏗️ Implemented **blue-green deployments** using ALB, ASG, and Jenkins pipelines.  
+  <br>📊 Configured and optimized **ELK stack** for centralized logging and real-time analytics.  
+  <br>📦 Streamlined server builds with **Packer**, reducing setup times by 60%.  
 
 
 ### 🏢 KiwiTech 
 👨‍💻 **DevOps Engineer** | 📍 Noida | 🗓️ 2017 – Oct-19
 
-  - Managed 100+ Linux servers for mission-critical applications.  
-  - Automated deployment process using Jenkins and ansible  
-  - Provision new infra from scratch and support to make it live.
-  - Implemented monitoring using cloudwatch and sns, lambda functions.  
+  🧱 Managed 100+ Linux servers for mission-critical applications.  
+  <br>📈 Automated deployment process using Jenkins and ansible  
+  <br>🛠️ Provision new infra from scratch and support to make it live.
+  <br>📊 Implemented monitoring using cloudwatch and sns, lambda functions.  
 
 ### 🏢 Xeliumtech  
 👨‍💻 **Linux System Administrator (DevOps)** | 📍 Gurugram | 🗓️ 2015 – 2017
