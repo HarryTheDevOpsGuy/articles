@@ -120,6 +120,14 @@ permalink: /resume-v3.html
 [Packer](#){:.button.button--outline-success.button--rounded.button--xs}
 [Prometheus](#){:.button.button--outline-success.button--rounded.button--xs}
 [Helm](#){:.button.button--outline-info.button--rounded.button--xs}
+[OpenResty](#){:.button.button--outline-info.button--rounded.button--xs}
+[Nginx](#){:.button.button--outline-info.button--rounded.button--xs}
+[Grafana](#){:.button.button--outline-info.button--rounded.button--xs}
+[Python](#){:.button.button--outline-info.button--rounded.button--xs}
+[Redis](#){:.button.button--outline-info.button--rounded.button--xs}
+[Kafka](#){:.button.button--outline-info.button--rounded.button--xs}
+[Groovy](#){:.button.button--outline-warning.button--rounded.button--xs}
+[Nexus](#){:.button.button--outline-warning.button--rounded.button--xs}
 
 🎓 Ansible | ⭐⭐⭐⭐⭐
 📜 Jenkins | ⭐⭐⭐⭐⭐
