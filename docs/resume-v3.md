@@ -47,10 +47,11 @@ permalink: /resume-v3.html
   <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
 
 ## 📚 Languages
+
 | **🛠️Language** | **Proficiancy**    | 
 |------------------|------------------|
-|🎓 **Hindi**      | ⭐⭐⭐⭐           |
-|📜 **English**    | ⭐⭐⭐⭐           |
+| 🎓 **Hindi**      | ⭐⭐⭐⭐           |
+| 📜 **English**    | ⭐⭐⭐⭐           |
 
 
   </div>
