@@ -104,29 +104,27 @@ permalink: /resume-v3.html
 🎓 Ansible | ⭐⭐⭐⭐⭐
 📜 Jenkins | ⭐⭐⭐⭐⭐
 📜 Telegraf | ⭐⭐⭐⭐⭐
-
-
-🐚 Shell Script - ⭐⭐⭐⭐⭐<br>
-☁️ AWS - ⭐⭐⭐⭐<br>
-📜 Terraform - ⭐⭐⭐⭐<br>
-☸️ Kubernetes - ⭐⭐⭐⭐<br>
-📜 Argocd - ⭐⭐⭐⭐<br>
-🔨 Karpenter - ⭐⭐⭐⭐<br>
-🔎 ELK Stack - ⭐⭐⭐⭐<br>
-📦 Packer - ⭐⭐⭐⭐<br>
-📜 Prometheus - ⭐⭐⭐⭐<br>
-📜 OpenResty - ⭐⭐⭐⭐<br>
-📜 Nginx - ⭐⭐⭐⭐<br>
-📜 Grafana - ⭐⭐⭐⭐<br>
-📜 Redis - ⭐⭐⭐<br>
-🐍 Python - ⭐⭐⭐<br>
-📜 Kafka - ⭐⭐⭐<br>
-📜 Groovy - ⭐⭐⭐<br>
-📜 Nexus - ⭐⭐⭐<br>
-📜 MySQL - ⭐⭐⭐<br>
-📜 Helm - ⭐⭐⭐<br>
-📜 Helmfile - ⭐⭐⭐<br>
-📜 GitHub Actions - ⭐⭐⭐⭐<br>
+🐚 Shell Script | ⭐⭐⭐⭐⭐
+☁️ AWS | ⭐⭐⭐⭐
+📜 Terraform | ⭐⭐⭐⭐
+☸️ Kubernetes | ⭐⭐⭐⭐
+📜 Argocd | ⭐⭐⭐⭐
+🔨 Karpenter | ⭐⭐⭐⭐
+🔎 ELK Stack | ⭐⭐⭐⭐
+📦 Packer | ⭐⭐⭐⭐
+📜 Prometheus | ⭐⭐⭐⭐
+📜 OpenResty | ⭐⭐⭐⭐
+📜 Nginx | ⭐⭐⭐⭐
+📜 Grafana | ⭐⭐⭐⭐
+📜 Redis | ⭐⭐⭐
+🐍 Python | ⭐⭐⭐
+📜 Kafka | ⭐⭐⭐
+📜 Groovy | ⭐⭐⭐
+📜 Nexus | ⭐⭐⭐
+📜 MySQL | ⭐⭐⭐
+📜 Helm | ⭐⭐⭐
+📜 Helmfile | ⭐⭐⭐
+📜 GitHub Actions | ⭐⭐⭐⭐
 
   </div>
 </div>
