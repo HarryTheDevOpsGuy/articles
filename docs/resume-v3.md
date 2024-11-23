@@ -11,7 +11,7 @@ permalink: /resume-v3.html
 ---
 
 <div class="grid" markdown="1">
-  <div class="cell cell--12 cell--md-8 cell--lg-8 content" markdown="1">
+  <div class="cell cell--12 cell--md-8 cell--lg-8 content pr-1" markdown="1">
 
 # ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:80px"} **Hari Prasad**
 **🚀 DevOps Architect | 📈 CI/CD Specialist** 
@@ -29,7 +29,7 @@ permalink: /resume-v3.html
 
 
 <div class="grid" markdown="1">
-  <div class="cell cell--12 cell--md-8 cell--lg-8 content pr-2" markdown="1">
+  <div class="cell cell--12 cell--md-8 cell--lg-8 content pr-1" markdown="1">
 
 ## 👨‍💻 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
@@ -46,7 +46,7 @@ permalink: /resume-v3.html
 </div>
 
 <div class="grid" markdown="1">
-  <div class="cell cell--12 cell--md-8 cell--lg-8 content pr-2" markdown="1">
+  <div class="cell cell--12 cell--md-8 cell--lg-8 content pr-1" markdown="1">
 
 ## 🎯 Technical Skills & Rating
 
