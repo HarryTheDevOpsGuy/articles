@@ -7,7 +7,7 @@ aside:
 permalink: /resume-v2.html
 
 author: HarryTheDevOpsGuy
-show_author_profile: true
+show_author_profile: false
 ---
 
 # ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:70px"} **Hari Prasad**
