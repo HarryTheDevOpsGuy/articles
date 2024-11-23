@@ -55,33 +55,47 @@ permalink: /resume-v3.html
 ### 🏢 Ziploan
 👨‍💻 **Sr. DevOps Engineer** | 📍 Delhi | 🗓️ Oct-19 – Mar-20
 
-  - Migrated on-premises applications to **AWS**, resulting in a 50% reduction in hosting costs.  
-  - Implemented **blue-green deployments** using ALB, ASG, and Jenkins pipelines.  
-  - Configured and optimized **ELK stack** for centralized logging and real-time analytics.  
-  - Streamlined server builds with **Packer**, reducing setup times by 60%.  
+  - Moved applications from on-premises to **AWS**, cutting hosting costs by 50%.  
+  - Set up **blue-green deployments** with **ALB**, **ASG**, and **Jenkins** for seamless updates.  
+  - Built and fine-tuned the **ELK stack** for centralized logging and live data analysis.  
+  - Used **Packer** to automate server builds, speeding up setup by 60%.  
+  - Wrote **Ansible roles** to automate Linux setup and software installations.  
+  - Developed **Jenkins pipelines** using Groovy scripts for efficient CI/CD.
 
 
 ### 🏢 KiwiTech 
 👨‍💻 **DevOps Engineer** | 📍 Noida | 🗓️ 2017 – Oct-19
 
-  - Managed 100+ Linux servers for mission-critical applications.  
-  - Automated deployment process using Jenkins and ansible  
-  - Provision new infra from scratch and support to make it live.
-  - Implemented monitoring using cloudwatch and sns, lambda functions.  
+  - Maintained and managed over 100+ **Linux servers** supporting mission-critical applications.  
+  - Automated deployment workflows with **Jenkins** and **Ansible** for faster and consistent releases.  
+  - Built and provisioned new infrastructure from scratch, ensuring seamless go-live support.  
+  - Set up **AWS CloudWatch**, **SNS**, and **Lambda functions** for monitoring and alerting critical systems.  
+  - Optimized server configurations for performance, security, and scalability.    
+  - Designed robust automation scripts to reduce manual tasks and improve operational efficiency.  
+  - Created and maintained detailed documentation for infrastructure processes and tools.  
+  - Troubleshot and resolved high-priority production issues under tight SLAs.  
+  
 
 ### 🏢 Xeliumtech Solutions  
 👨‍💻 **Linux System Administrator (DevOps)** | 📍 Gurugram | 🗓️ 2015 – 2017
 
-  - Provision and configure virtual machines to host multiple websites utilizing a LAMP stack architecture.
-  - Administer GitLab servers and manage version control repositories.
-  - Oversee non-production infrastructure operations.
+  - Set up and configured **virtual machines** to host multiple websites using **LAMP stack** architecture.  
+  - Managed **GitLab servers**, ensuring efficient version control and repository administration.  
+  - Supervised and maintained **non-production infrastructure** to support testing and development environments.  
+  - Implemented best practices for server security, including firewalls, user management, and SSL configurations.
+  - Developed automation scripts to reduce manual tasks and improve operational efficiency. 
+
+
 
 ### 🏢 Dental Council Of India (DCI)
 👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ 2013 – 2015
 
-  - Working closely with desktop and laptop users support Technical issues.   
-  - Supporting dev team for any hardware & networking issue.  
-  - Managing MS SQL Server and windows applications.
+  - Provided hands-on support for **desktop and laptop users**, resolving technical issues promptly.   
+  - Managed and maintained **MS SQL Server** and ensured smooth operation of Windows-based applications.  
+  - Diagnosed and resolved **network connectivity issues** for office systems and development environments.  
+  - Performed regular maintenance and updates on **Windows and Linux servers** to ensure optimal performance.  
+  - Implemented backup and recovery strategies for critical **SQL Server databases**.   
+    
 
 
   </div>
