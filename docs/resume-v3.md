@@ -21,7 +21,7 @@ permalink: /resume-v3.html
 
 📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com)<br>
 🚀 DevOps Architect | 📈 CI/CD Specialist 
-# **Hari Prasad**
+**Hari Prasad**
 
 
   </div>
