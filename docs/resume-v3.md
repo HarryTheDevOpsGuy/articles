@@ -38,9 +38,14 @@ permalink: /resume-v3.html
   <div class="cell cell--12 cell--md-4 cell--lg-4 m-sm-1 content" markdown="1">
 
 ## 📚 Education
+📘 **High School** - CBSE, 2008<br>
+📘 **High School** - CBSE, 2008<br>
+📘 **High School** - CBSE, 2008<br>
+<!--
 🎓 **Bachelor of Commerce** - Delhi University - 2014<br>
 📜 **Senior Secondary School** - CBSE, Delhi - 2010<br>
 📘 **High School** - CBSE, Delhi - 2008<br>
+-->
 
   </div>
 </div>
