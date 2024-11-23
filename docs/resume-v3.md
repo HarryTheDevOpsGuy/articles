@@ -10,6 +10,7 @@ permalink: /resume-v3.html
 #show_author_profile: true
 ---
 
+<div id='printMe'>
 <div class="grid" markdown="1">
   <div class="cell cell--shrink content" markdown="1">
 
@@ -120,6 +121,8 @@ permalink: /resume-v3.html
 [Hindi](#){:.button.button--outline-success.button--rounded.button--sm}
 
   </div>
+</div>
+<button onclick="printDiv('printMe')">Print only the above div</button>
 </div>
 
 
