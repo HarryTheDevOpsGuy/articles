@@ -62,6 +62,33 @@ permalink: /resume-v3.html
 ## 📚 Languages
 🎓 **Hindi** - ⭐⭐⭐⭐<br>
 📜 **English** - ⭐⭐⭐⭐
+
+## 📚 Ratings
+🎓 **Ansible** - ⭐⭐⭐⭐⭐<br>
+📜 **Jenkins** - ⭐⭐⭐⭐⭐<br>
+📜 **Telegraf** - ⭐⭐⭐⭐⭐<br>
+📜 **Shell Script** - ⭐⭐⭐⭐⭐<br>
+📜 **AWS** - ⭐⭐⭐⭐<br>
+📜 **Terraform** - ⭐⭐⭐⭐<br>
+📜 **Kubernetes** - ⭐⭐⭐⭐<br>
+📜 **Argocd** - ⭐⭐⭐⭐<br>
+📜 **Karpenter** - ⭐⭐⭐⭐<br>
+📜 **ELK Stack** - ⭐⭐⭐⭐<br>
+📜 **Packer** - ⭐⭐⭐⭐<br>
+📜 **Prometheus** - ⭐⭐⭐⭐<br>
+📜 **OpenResty** - ⭐⭐⭐⭐<br>
+📜 **Nginx** - ⭐⭐⭐⭐<br>
+📜 **Grafana** - ⭐⭐⭐⭐<br>
+📜 **Redis** - ⭐⭐⭐<br>
+📜 **Python** - ⭐⭐⭐<br>
+📜 **Kafka** - ⭐⭐⭐<br>
+📜 **Groovy** - ⭐⭐⭐<br>
+📜 **Nexus** - ⭐⭐⭐<br>
+📜 **MySQL** - ⭐⭐⭐<br>
+📜 **Helm** - ⭐⭐⭐<br>
+📜 **Helmfile** - ⭐⭐⭐<br>
+📜 **GitHub Actions** - ⭐⭐⭐⭐<br>
+
   </div>
 </div>
 
@@ -107,12 +134,6 @@ permalink: /resume-v3.html
 - Working closely with desktop and laptop users support Technical issues.   
 - Supporting dev team for any hardware & networking issue.  
 - Managing MS SQL Server and windows applications.
-
-## 📚 Education
-
-🎓 **Bachelor of Commerce** | Delhi University | 🗓️ 2014 
-📜 **Senior Secondary School** | CBSE, Delhi | 🗓️ 2010
-📘 **High School** | CBSE, Delhi | 🗓️ 2008
 
 
 ## 🛠️ Notable Projects
