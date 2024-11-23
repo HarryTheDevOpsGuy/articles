@@ -35,7 +35,7 @@ permalink: /resume-v3.html
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
 
   </div>
-  <div class="cell cell--12 cell--md-4 cell--lg-4 content" style="margin-left:50px;width:auto" markdown="1">
+  <div class="cell cell--12 cell--md-4 cell--lg-4 content" style="margin-left:0px;width:auto" markdown="1">
 
 ## 📚 Education
 🎓 **Bachelor of Commerce** - Delhi University - 2014<br>
