@@ -14,6 +14,22 @@ permalink: /resume-v3.html
 **🚀 DevOps Architect | 🌐 Cloud Enthusiast | 📈 CI/CD Specialist**  
 📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com) | 📞 [7503721297](tel:+917503721297) | 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) | 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
 
+<div class="grid" markdown="1">
+  <div class="cell cell--12 cell--md-8 cell--lg-8 content" markdown="1">
+
+# ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:70px"} **Hari Prasad**
+
+  </div>
+  <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
+
+  - 🎓 📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com) 
+  - 📞 [7503721297](tel:+917503721297)
+  - 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+  - 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
+
+  </div>
+</div>
+
 
 <div class="grid" markdown="1">
   <div class="cell cell--12 cell--md-8 cell--lg-8 content" markdown="1">
@@ -31,6 +47,7 @@ permalink: /resume-v3.html
 
   </div>
 </div>
+
 <div class="grid" markdown="1">
   <div class="cell cell--12 cell--md-8 cell--lg-8 content" markdown="1">
 
