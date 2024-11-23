@@ -85,15 +85,6 @@ permalink: /resume-v3.html
   </div>
   <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
 
-## 📚 Education
-🎓 **Bachelor of Commerce** - Delhi University - 2014<br>
-🏫 **Senior Secondary School** - CBSE, Delhi - 2010<br>
-🏫 **High School** - CBSE, Delhi - 2008<br>
-
-## 💬 Languages
-[English](#){:.button.button--outline-success.button--rounded.button--sm}
-[Hindi](#){:.button.button--outline-success.button--rounded.button--sm}
-
 ## 🎯 Skills
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
@@ -118,6 +109,15 @@ permalink: /resume-v3.html
 [Redis](#){:.button.button--outline-info.button--rounded.button--sm}
 [Helmfile](#){:.button.button--outline-warning.button--rounded.button--sm}
 [GitHub Actions](#){:.button.button--outline-warning.button--rounded.button--sm}
+
+## 📚 Education
+🎓 **Bachelor of Commerce** - Delhi University - 2014<br>
+🏫 **Senior Secondary School** - CBSE, Delhi - 2010<br>
+🏫 **High School** - CBSE, Delhi - 2008<br>
+
+## 💬 Languages
+[English](#){:.button.button--outline-success.button--rounded.button--sm}
+[Hindi](#){:.button.button--outline-success.button--rounded.button--sm}
 
   </div>
 </div>
