@@ -17,9 +17,9 @@ permalink: /resume-v3.html
 
   </div>
 
-  <div class="cell cell--auto content pr-1" markdown="1">
+  <div class="cell cell--auto content pr-1" style="text-align: right;" markdown="1">
 
-![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:80px;text-align: right"} 
+![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:80px"} 
 
 
   </div>
