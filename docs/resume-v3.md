@@ -116,9 +116,6 @@ permalink: /resume-v3.html
 [Grafana](#){:.button.button--outline-info.button--rounded.button--sm}
 [Python](#){:.button.button--outline-info.button--rounded.button--sm}
 [Redis](#){:.button.button--outline-info.button--rounded.button--sm}
-
-
-
 [Helmfile](#){:.button.button--outline-warning.button--rounded.button--sm}
 [GitHub Actions](#){:.button.button--outline-warning.button--rounded.button--sm}
 
