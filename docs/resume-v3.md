@@ -10,7 +10,6 @@ permalink: /resume-v3.html
 #show_author_profile: true
 ---
 
-<div id='printMe'>
 <div class="grid" markdown="1">
   <div class="cell cell--shrink content" markdown="1">
 
@@ -122,8 +121,7 @@ permalink: /resume-v3.html
 
   </div>
 </div>
-<a href="javascript:void(0);" onclick="printDiv('printMe')">Print</a>
-</div>
+
 
 
 
