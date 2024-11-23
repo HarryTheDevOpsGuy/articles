@@ -20,7 +20,7 @@ permalink: /resume-v3.html
   <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
 
 📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com) <br>
-📞 [7503721297](tel:+917503721297)<br>
+📞 [7503721297](tel:+917503721297)
 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HarryTheDevOpsGuy)<br>
 
@@ -34,15 +34,14 @@ permalink: /resume-v3.html
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
 
 ## 🎯 Technical Skills
-  - 🛠️ **DevOps Tools**  
-  - ☁️ **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, EKS)
-  - 🔧 **Infrastructure as Code (IaC)**: Terraform, Ansible
-  - 🚀 **CI/CD Pipelines**: Jenkins, Groovy Scripting, Jenkins as Code, GitHub
-  - 🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm
-  - 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-  - 📥 **Caching & Messaging Queues**: Kafka, Redis 
-  - 🌐 **Web Servers**: Nginx, Openresty, tomcat 
-  - 💻 **Programming & Scripting Languages**: Python, Bash, Groovy
+  ☁️ **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, EKS)<br>
+  🔧 **Infrastructure as Code (IaC)**: Terraform, Ansible<br>
+  🚀 **CI/CD Pipelines**: Jenkins, Groovy Scripting, Jenkins as Code, GitHub<br>
+  🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm<br>
+  📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack<br>
+  📥 **Caching & Messaging Queues**: Kafka, Redis <br>
+  🌐 **Web Servers**: Nginx, Openresty, tomcat <br>
+  💻 **Programming & Scripting Languages**: Python, Bash, Groovy<br>
    
 
 ## 💼 Work Experience
