@@ -100,9 +100,9 @@ permalink: /resume-v3.html
 📜 English - ⭐⭐⭐⭐
 
 ## 🌟 Ratings
-🎓 Ansible - ⭐⭐⭐⭐⭐<br>
-📜 Jenkins - ⭐⭐⭐⭐⭐<br>
-📜 Telegraf - ⭐⭐⭐⭐⭐<br>
+🎓 Ansible | ⭐⭐⭐⭐⭐
+📜 Jenkins | ⭐⭐⭐⭐⭐
+📜 Telegraf | ⭐⭐⭐⭐⭐
 🐚 Shell Script - ⭐⭐⭐⭐⭐<br>
 ☁️ AWS - ⭐⭐⭐⭐<br>
 📜 Terraform - ⭐⭐⭐⭐<br>
