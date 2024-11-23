@@ -29,13 +29,13 @@ permalink: /resume-v3.html
 
 
 <div class="grid" markdown="1">
-  <div class="cell cell--12 cell--md-8 cell--lg-8 content px-1" markdown="1">
+  <div class="cell cell--12 cell--md-8 cell--lg-8 content pr-1" markdown="1">
 
 ## 👨‍💻 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
 
   </div>
-  <div class="cell cell--12 cell--md-4 cell--lg-4 content px-5" markdown="1">
+  <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
 
 ## 📚 Education
 📘 **High School** - CBSE, 2008<br>
@@ -51,7 +51,7 @@ permalink: /resume-v3.html
 </div>
 
 <div class="grid" markdown="1">
-  <div class="cell cell--12 cell--md-8 cell--lg-8 content" markdown="1">
+  <div class="cell cell--12 cell--md-8 cell--lg-8 content pr-1" markdown="1">
 
 ## 🎯 Technical Skills & Rating
 
@@ -62,7 +62,7 @@ permalink: /resume-v3.html
 | Python, Redis, Kafka, Groovy Script, Nexus, MySQL, Helm, Helmfile, GitHub Actions,                         | ⭐⭐⭐      | 
 
   </div>
-  <div class="cell cell--12 cell--md-4 cell--lg-4 content mx-2" markdown="1">
+  <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
 
 ## 📚 Languages
 🎓 **Hindi** - ⭐⭐⭐⭐<br>
