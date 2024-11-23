@@ -158,3 +158,11 @@ Build Dynamic AMI Creation solution using Shell Script, Packer, Ansible, Cloud-i
 - **"Configuring ModSecurity with OpenResty for Web Security"**  
 - **"Kubernetes Cluster Scaling with Karpenter"**  
 - **"Terraform Best Practices for Multi-Environment Deployments"**
+
+
+<div class="layout--archive js-all">
+  {%- include tags.html -%}
+  <div class="js-result layout--archive__result d-none">
+    {%- include article-list.html articles=site.posts type='brief' show_info=true reverse=true group_by='year' -%}
+  </div>
+</div>
