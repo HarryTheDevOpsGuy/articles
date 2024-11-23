@@ -60,8 +60,8 @@ permalink: /resume-v3.html
   <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
 
 ## 📚 Languages
-  - 🎓 **Hindi** - ⭐⭐⭐⭐
-  - 📜 **English** - ⭐⭐⭐⭐
+🎓 **Hindi** - ⭐⭐⭐⭐<br>
+📜 **English** - ⭐⭐⭐⭐
   </div>
 </div>
 
