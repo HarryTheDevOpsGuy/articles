@@ -19,10 +19,10 @@ permalink: /resume-v3.html
   </div>
   <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
 
-  - 📧 [HarrytheDevOpsGuy](mailto:HarrytheDevOpsGuy@gmail.com) 
-  - 📞 [7503721297](tel:+917503721297)
-  - 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-  - 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
+📧 [HarrytheDevOpsGuy](mailto:HarrytheDevOpsGuy@gmail.com)
+📞 [7503721297](tel:+917503721297)
+🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
 
   </div>
 </div>
