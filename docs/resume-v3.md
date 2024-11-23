@@ -39,17 +39,6 @@ permalink: /resume-v3.html
 ## 📝 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
 
-## 🎯 Technical Skills
-  ☁️ **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, EKS)<br>
-  🔧 **Infrastructure as Code (IaC)**: Terraform, Ansible<br>
-  🚀 **CI/CD Pipelines**: Jenkins, Groovy Scripting, Jenkins as Code, GitHub<br>
-  🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm<br>
-  📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack<br>
-  📥 **Caching & Messaging Queues**: Kafka, Redis <br>
-  🌐 **Web Servers**: Nginx, Openresty, tomcat <br>
-  💻 **Programming & Scripting Languages**: Python, Bash, Groovy<br>
-   
-
 ## 💼 Work Experience
 
 ### 🏢 One97 Communications Limited
@@ -105,7 +94,7 @@ permalink: /resume-v3.html
 🎓 Hindi - ⭐⭐⭐⭐<br>
 📜 English - ⭐⭐⭐⭐
 
-## 🌟 Ratings
+## 🎯 Technical Skills
 
 [Ansible](#){:.button.button--success.button--rounded.button--xs}
 [Jenkins](#){:.button.button--success.button--rounded.button--xs}
@@ -128,31 +117,9 @@ permalink: /resume-v3.html
 [Kafka](#){:.button.button--outline-info.button--rounded.button--xs}
 [Groovy](#){:.button.button--outline-warning.button--rounded.button--xs}
 [Nexus](#){:.button.button--outline-warning.button--rounded.button--xs}
-
-🎓 Ansible | ⭐⭐⭐⭐⭐
-📜 Jenkins | ⭐⭐⭐⭐⭐
-📜 Telegraf | ⭐⭐⭐⭐⭐
-🐚 Shell Script | ⭐⭐⭐⭐⭐
-☁️ AWS | ⭐⭐⭐⭐
-📜 Terraform | ⭐⭐⭐⭐
-☸️ Kubernetes | ⭐⭐⭐⭐
-📜 Argocd | ⭐⭐⭐⭐
-🔨 Karpenter | ⭐⭐⭐⭐
-🔎 ELK Stack | ⭐⭐⭐⭐
-📦 Packer | ⭐⭐⭐⭐
-📜 Prometheus | ⭐⭐⭐⭐
-📜 OpenResty | ⭐⭐⭐⭐
-📜 Nginx | ⭐⭐⭐⭐
-📜 Grafana | ⭐⭐⭐⭐
-📜 Redis | ⭐⭐⭐
-🐍 Python | ⭐⭐⭐
-📜 Kafka | ⭐⭐⭐
-📜 Groovy | ⭐⭐⭐
-📜 Nexus | ⭐⭐⭐
-📜 MySQL | ⭐⭐⭐
-📜 Helm | ⭐⭐⭐
-📜 Helmfile | ⭐⭐⭐
-📜 GitHub Actions | ⭐⭐⭐⭐
+[Helmfile](#){:.button.button--outline-warning.button--rounded.button--xs}
+[helm](#){:.button.button--outline-warning.button--rounded.button--xs}
+[GitHub Actions](#){:.button.button--outline-warning.button--rounded.button--xs}
 
   </div>
 </div>
