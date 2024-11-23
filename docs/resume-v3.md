@@ -1,6 +1,6 @@
 ---
 layout: article
-title: -
+title: .
 key: myresume
 aside:
   toc: true
