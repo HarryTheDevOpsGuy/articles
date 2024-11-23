@@ -28,7 +28,7 @@ show_author_profile: false
 - 🎓 **Bachelor of Commerce** - Delhi University - 2014 
 - 📜 **Senior Secondary School** - CBSE, Delhi - 2010
 - 📘 **High School** - CBSE, Delhi - 2008
-  
+
   </div>
 </div>
 
