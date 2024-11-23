@@ -107,16 +107,18 @@ permalink: /resume-v3.html
 [Karpenter](#){:.button.button--outline-success.button--rounded.button--sm}
 [ELK Stack](#){:.button.button--outline-success.button--rounded.button--sm}
 [Packer](#){:.button.button--outline-success.button--rounded.button--sm}
+[Nexus](#){:.button.button--outline-warning.button--rounded.button--sm}
 [Prometheus](#){:.button.button--outline-success.button--rounded.button--sm}
-[Helm](#){:.button.button--outline-info.button--rounded.button--sm}
+[Groovy](#){:.button.button--outline-warning.button--rounded.button--sm}
+[Kafka](#){:.button.button--outline-info.button--rounded.button--sm}
 [OpenResty](#){:.button.button--outline-info.button--rounded.button--sm}
 [Nginx](#){:.button.button--outline-info.button--rounded.button--sm}
 [Grafana](#){:.button.button--outline-info.button--rounded.button--sm}
 [Python](#){:.button.button--outline-info.button--rounded.button--sm}
 [Redis](#){:.button.button--outline-info.button--rounded.button--sm}
-[Kafka](#){:.button.button--outline-info.button--rounded.button--sm}
-[Groovy](#){:.button.button--outline-warning.button--rounded.button--sm}
-[Nexus](#){:.button.button--outline-warning.button--rounded.button--sm}
+
+
+
 [Helmfile](#){:.button.button--outline-warning.button--rounded.button--sm}
 [GitHub Actions](#){:.button.button--outline-warning.button--rounded.button--sm}
 
