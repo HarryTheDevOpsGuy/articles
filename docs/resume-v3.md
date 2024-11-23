@@ -62,42 +62,42 @@ permalink: /resume-v3.html
 ### 🏢 One97 Communications Limited
 👨‍💻 **Sr. DevOps Lead** | 📍 Noida | 🗓️ Mar-20 – Present 
     
-- 🚀 Optimized Kubernetes clusters with **Helm** and **Helmfile**, ensuring 99.99% uptime. 
-- 📈 Automated infrastructure provisioning using **Ansible**, **Terraform** and **Packer**.
-- 🐙 Built and deployed CI/CD pipelines with **Jenkins as Code** and **Groovy scripting**, reducing release times by 40%.
-- 🌐 Implemented centralized logging using the **ELK Stack**, improving troubleshooting efficiency.
-- 🔧 Developed a fully automated **blue-green deployment** pipeline with **0 downtime** using **Jenkins, AWS ALB and ASG,Cloudwatch**.
+  - 🚀 Optimized Kubernetes clusters with **Helm** and **Helmfile**, ensuring 99.99% uptime. 
+  - 📈 Automated infrastructure provisioning using **Ansible**, **Terraform** and **Packer**.
+  - 🐙 Built and deployed CI/CD pipelines with **Jenkins as Code** and **Groovy scripting**, reducing release times by 40%.
+  - 🌐 Implemented centralized logging using the **ELK Stack**, improving troubleshooting efficiency.
+  - 🔧 Developed a fully automated **blue-green deployment** pipeline with **0 downtime** using **Jenkins, AWS ALB and ASG,Cloudwatch**.
 
 ### 🏢 Ziploan
 👨‍💻 **Sr. DevOps Engineer** | 📍 Delhi | 🗓️ Oct-19 – Mar-20
 
-- Migrated on-premises applications to **AWS**, resulting in a 50% reduction in hosting costs.  
-- Implemented **blue-green deployments** using ALB, ASG, and Jenkins pipelines.  
-- Configured and optimized **ELK stack** for centralized logging and real-time analytics.  
-- Streamlined server builds with **Packer**, reducing setup times by 60%.  
+  - Migrated on-premises applications to **AWS**, resulting in a 50% reduction in hosting costs.  
+  - Implemented **blue-green deployments** using ALB, ASG, and Jenkins pipelines.  
+  - Configured and optimized **ELK stack** for centralized logging and real-time analytics.  
+  - Streamlined server builds with **Packer**, reducing setup times by 60%.  
 
 
 ### 🏢 KiwiTech 
 👨‍💻 **DevOps Engineer** | 📍 Noida | 🗓️ 2017 – Oct-19
 
-- Managed 100+ Linux servers for mission-critical applications.  
-- Automated deployment process using Jenkins and ansible  
-- Provision new infra from scratch and support to make it live.
-- Implemented monitoring using cloudwatch and sns, lambda functions.  
+  - Managed 100+ Linux servers for mission-critical applications.  
+  - Automated deployment process using Jenkins and ansible  
+  - Provision new infra from scratch and support to make it live.
+  - Implemented monitoring using cloudwatch and sns, lambda functions.  
 
 ### 🏢 Xeliumtech  
 👨‍💻 **Linux System Administrator (DevOps)** | 📍 Gurugram | 🗓️ 2015 – 2017
 
-- Provision and configure virtual machines to host multiple websites utilizing a LAMP stack architecture.
-- Administer GitLab servers and manage version control repositories.
-- Oversee non-production infrastructure operations.
+  - Provision and configure virtual machines to host multiple websites utilizing a LAMP stack architecture.
+  - Administer GitLab servers and manage version control repositories.
+  - Oversee non-production infrastructure operations.
 
 ### 🏢 Dental Council Of India (DCI)    
 👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ 2013 – 2015
 
-- Working closely with desktop and laptop users support Technical issues.   
-- Supporting dev team for any hardware & networking issue.  
-- Managing MS SQL Server and windows applications.
+  - Working closely with desktop and laptop users support Technical issues.   
+  - Supporting dev team for any hardware & networking issue.  
+  - Managing MS SQL Server and windows applications.
 
 
   </div>
