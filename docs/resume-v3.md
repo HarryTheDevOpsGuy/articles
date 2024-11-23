@@ -23,6 +23,7 @@ permalink: /resume-v3.html
 📞 [7503721297](tel:+917503721297)
 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HarryTheDevOpsGuy)<br>
+🚀 DevOps Architect | 📈 CI/CD Specialist
 
   </div>
 </div>
