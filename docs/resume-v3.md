@@ -91,8 +91,8 @@ permalink: /resume-v3.html
 🏫 **High School** - CBSE, Delhi - 2008<br>
 
 ### 💬 Languages
-🎓 Hindi - ⭐⭐⭐⭐<br>
-📜 English - ⭐⭐⭐⭐
+[English](#){:.button.button--outline-success.button--rounded.button--sm}
+[Hindi](#){:.button.button--outline-success.button--rounded.button--sm}
 
 ### 🎯 Technical Skills
 
