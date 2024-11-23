@@ -30,17 +30,22 @@ permalink: /resume-v3.html
 <div class="grid" markdown="1">
   <div class="cell cell--12 cell--md-9 cell--lg-9 content pr-1" markdown="1">
 
-## 👨‍💻 **Professional Summary** 
+## 📝 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
 
-## 🎯 Technical Skills & Rating
+## 🎯 Technical Skills
 
-| **🛠️Tools & Technologies**                                                             | **🌟Rating**                    | 
-|------------------|--------------------------------------------------------------------------------------------------------|
-| Ansible, Jenkins, Telegraf, Linux, Shell Script, Docker                                                      | ⭐⭐⭐⭐⭐ |
-| AWS, Terraform, Kubernetes, Argocd, Karpenter, ELK Stack, Packer, Prometheus, OpenResty/Nginx, Grafana        | ⭐⭐⭐⭐    | 
-| Python, Redis, Kafka, Groovy Script, Nexus, MySQL, Helm, Helmfile, GitHub Actions,                         | ⭐⭐⭐      | 
-
+- 🛠️ **DevOps Tools**  
+- ☁️ **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, EKS)
+- 🔧 **Infrastructure as Code (IaC)**: Terraform, Ansible
+- 🚀 **CI/CD Pipelines**: Jenkins, Groovy Scripting, Jenkins as Code, GitHub
+- 🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm
+- 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- 📥 **Caching & Messaging Queues**: Kafka, Redis 
+- 🌐 **Web Servers**: Nginx, Openresty, tomcat 
+- 💻 **Programming & Scripting Languages**: Python, Bash, Groovy
+- 🔗 **Version Control** 
+   
 
 ## 💼 Work Experience
 
@@ -90,14 +95,14 @@ permalink: /resume-v3.html
 
 ## 📚 Education
 🎓 **Bachelor of Commerce** - Delhi University - 2014<br>
-📜 **Senior Secondary School** - CBSE, Delhi - 2010<br>
-📘 **High School** - CBSE, Delhi - 2008<br>
+🏫 **Senior Secondary School** - CBSE, Delhi - 2010<br>
+🏫 **High School** - CBSE, Delhi - 2008<br>
 
-## 📚 Languages
+## 💬 Languages
 🎓 **Hindi** - ⭐⭐⭐⭐<br>
 📜 **English** - ⭐⭐⭐⭐
 
-## 📚 Ratings
+## 🌟 Ratings
 🎓 **Ansible** - ⭐⭐⭐⭐⭐<br>
 📜 **Jenkins** - ⭐⭐⭐⭐⭐<br>
 📜 **Telegraf** - ⭐⭐⭐⭐⭐<br>
