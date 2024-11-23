@@ -6,7 +6,7 @@ aside:
   toc: true
 permalink: /resume-v2.html
 
-author: Tian Qi
+author: Hari Prasad
 show_author_profile: true
 ---
 
