@@ -56,42 +56,6 @@ permalink: /resume-v3.html
 | AWS, Terraform, Kubernetes, Argocd, Karpenter, ELK Stack, Packer, Prometheus, OpenResty/Nginx, Grafana        | ⭐⭐⭐⭐    | 
 | Python, Redis, Kafka, Groovy Script, Nexus, MySQL, Helm, Helmfile, GitHub Actions,                         | ⭐⭐⭐      | 
 
-  </div>
-  <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
-
-## 📚 Languages
-🎓 **Hindi** - ⭐⭐⭐⭐<br>
-📜 **English** - ⭐⭐⭐⭐
-
-## 📚 Ratings
-🎓 **Ansible** - ⭐⭐⭐⭐⭐<br>
-📜 **Jenkins** - ⭐⭐⭐⭐⭐<br>
-📜 **Telegraf** - ⭐⭐⭐⭐⭐<br>
-📜 **Shell Script** - ⭐⭐⭐⭐⭐<br>
-📜 **AWS** - ⭐⭐⭐⭐<br>
-📜 **Terraform** - ⭐⭐⭐⭐<br>
-📜 **Kubernetes** - ⭐⭐⭐⭐<br>
-📜 **Argocd** - ⭐⭐⭐⭐<br>
-📜 **Karpenter** - ⭐⭐⭐⭐<br>
-📜 **ELK Stack** - ⭐⭐⭐⭐<br>
-📜 **Packer** - ⭐⭐⭐⭐<br>
-📜 **Prometheus** - ⭐⭐⭐⭐<br>
-📜 **OpenResty** - ⭐⭐⭐⭐<br>
-📜 **Nginx** - ⭐⭐⭐⭐<br>
-📜 **Grafana** - ⭐⭐⭐⭐<br>
-📜 **Redis** - ⭐⭐⭐<br>
-📜 **Python** - ⭐⭐⭐<br>
-📜 **Kafka** - ⭐⭐⭐<br>
-📜 **Groovy** - ⭐⭐⭐<br>
-📜 **Nexus** - ⭐⭐⭐<br>
-📜 **MySQL** - ⭐⭐⭐<br>
-📜 **Helm** - ⭐⭐⭐<br>
-📜 **Helmfile** - ⭐⭐⭐<br>
-📜 **GitHub Actions** - ⭐⭐⭐⭐<br>
-
-  </div>
-</div>
-
 
 ## 💼 Work Experience
 
@@ -134,6 +98,46 @@ permalink: /resume-v3.html
 - Working closely with desktop and laptop users support Technical issues.   
 - Supporting dev team for any hardware & networking issue.  
 - Managing MS SQL Server and windows applications.
+
+
+  </div>
+  <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
+
+## 📚 Languages
+🎓 **Hindi** - ⭐⭐⭐⭐<br>
+📜 **English** - ⭐⭐⭐⭐
+
+## 📚 Ratings
+🎓 **Ansible** - ⭐⭐⭐⭐⭐<br>
+📜 **Jenkins** - ⭐⭐⭐⭐⭐<br>
+📜 **Telegraf** - ⭐⭐⭐⭐⭐<br>
+📜 **Shell Script** - ⭐⭐⭐⭐⭐<br>
+📜 **AWS** - ⭐⭐⭐⭐<br>
+📜 **Terraform** - ⭐⭐⭐⭐<br>
+📜 **Kubernetes** - ⭐⭐⭐⭐<br>
+📜 **Argocd** - ⭐⭐⭐⭐<br>
+📜 **Karpenter** - ⭐⭐⭐⭐<br>
+📜 **ELK Stack** - ⭐⭐⭐⭐<br>
+📜 **Packer** - ⭐⭐⭐⭐<br>
+📜 **Prometheus** - ⭐⭐⭐⭐<br>
+📜 **OpenResty** - ⭐⭐⭐⭐<br>
+📜 **Nginx** - ⭐⭐⭐⭐<br>
+📜 **Grafana** - ⭐⭐⭐⭐<br>
+📜 **Redis** - ⭐⭐⭐<br>
+📜 **Python** - ⭐⭐⭐<br>
+📜 **Kafka** - ⭐⭐⭐<br>
+📜 **Groovy** - ⭐⭐⭐<br>
+📜 **Nexus** - ⭐⭐⭐<br>
+📜 **MySQL** - ⭐⭐⭐<br>
+📜 **Helm** - ⭐⭐⭐<br>
+📜 **Helmfile** - ⭐⭐⭐<br>
+📜 **GitHub Actions** - ⭐⭐⭐⭐<br>
+
+  </div>
+</div>
+
+
+
 
 
 ## 🛠️ Notable Projects
