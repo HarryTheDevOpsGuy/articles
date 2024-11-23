@@ -79,7 +79,7 @@ permalink: /resume-v3.html
   - Administer GitLab servers and manage version control repositories.
   - Oversee non-production infrastructure operations.
 
-### 🏢      
+### 🏢 Dental Council Of India (DCI)
 👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ 2013 – 2015
 
   - Working closely with desktop and laptop users support Technical issues.   
