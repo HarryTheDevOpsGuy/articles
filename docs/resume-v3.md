@@ -46,11 +46,12 @@ permalink: /resume-v3.html
   </div>
   <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
 
-## 📚 Education
+## 📚 Languages
+| **🛠️Language** | **Proficiancy**    | 
+|------------------|------------------|
+|🎓 **Hindi**      | ⭐⭐⭐⭐           |
+|📜 **English**    | ⭐⭐⭐⭐           |
 
-🎓 **Bachelor of Commerce** | Delhi University | 🗓️ 2014 
-📜 **Senior Secondary School** | CBSE, Delhi | 🗓️ 2010
-📘 **High School** | CBSE, Delhi | 🗓️ 2008
 
   </div>
 </div>
