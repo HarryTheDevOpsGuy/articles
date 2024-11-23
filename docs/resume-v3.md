@@ -19,7 +19,7 @@ permalink: /resume-v3.html
 
   <div class="cell cell--6 cell--md-6 cell--lg-6 content pr-1" markdown="1">
 
-**Hari Prasad**
+### **Hari Prasad**
 🚀 DevOps Architect | 📈 CI/CD Specialist<br>
 📧 HarrytheDevOpsGuy@gmail.com
 
