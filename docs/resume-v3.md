@@ -95,30 +95,30 @@ permalink: /resume-v3.html
 [Hindi](#){:.button.button--outline-success.button--rounded.button--sm}
 
 ## 🎯 Skills
-[Ansible](#){:.button.button--success.button--rounded.button--xs}
-[Jenkins](#){:.button.button--success.button--rounded.button--xs}
-[Telegraf](#){:.button.button--success.button--rounded.button--xs}
-[Shell Script](#){:.button.button--success.button--rounded.button--xs}
-[AWS](#){:.button.button--primary.success--rounded.button--xs}
-[Terraform](#){:.button.button--success.button--rounded.button--xs}
-[Kubernetes](#){:.button.button--primary.button--rounded.button--xs}
-[Argocd](#){:.button.button--primary.button--rounded.button--xs}
-[Karpenter](#){:.button.button--primary.button--rounded.button--xs}
-[ELK Stack](#){:.button.button--outline-success.button--rounded.button--xs}
-[Packer](#){:.button.button--outline-success.button--rounded.button--xs}
-[Prometheus](#){:.button.button--outline-success.button--rounded.button--xs}
-[Helm](#){:.button.button--outline-info.button--rounded.button--xs}
-[OpenResty](#){:.button.button--outline-info.button--rounded.button--xs}
-[Nginx](#){:.button.button--outline-info.button--rounded.button--xs}
-[Grafana](#){:.button.button--outline-info.button--rounded.button--xs}
-[Python](#){:.button.button--outline-info.button--rounded.button--xs}
-[Redis](#){:.button.button--outline-info.button--rounded.button--xs}
-[Kafka](#){:.button.button--outline-info.button--rounded.button--xs}
-[Groovy](#){:.button.button--outline-warning.button--rounded.button--xs}
-[Nexus](#){:.button.button--outline-warning.button--rounded.button--xs}
-[Helmfile](#){:.button.button--outline-warning.button--rounded.button--xs}
-[helm](#){:.button.button--outline-warning.button--rounded.button--xs}
-[GitHub Actions](#){:.button.button--outline-warning.button--rounded.button--xs}
+[Ansible](#){:.button.button--success.button--rounded.button--sm}
+[Jenkins](#){:.button.button--success.button--rounded.button--sm}
+[Telegraf](#){:.button.button--success.button--rounded.button--sm}
+[Shell Script](#){:.button.button--success.button--rounded.button--sm}
+[AWS](#){:.button.button--primary.success--rounded.button--sm}
+[Terraform](#){:.button.button--success.button--rounded.button--sm}
+[Kubernetes](#){:.button.button--primary.button--rounded.button--sm}
+[Argocd](#){:.button.button--primary.button--rounded.button--sm}
+[Karpenter](#){:.button.button--primary.button--rounded.button--sm}
+[ELK Stack](#){:.button.button--outline-success.button--rounded.button--sm}
+[Packer](#){:.button.button--outline-success.button--rounded.button--sm}
+[Prometheus](#){:.button.button--outline-success.button--rounded.button--sm}
+[Helm](#){:.button.button--outline-info.button--rounded.button--sm}
+[OpenResty](#){:.button.button--outline-info.button--rounded.button--sm}
+[Nginx](#){:.button.button--outline-info.button--rounded.button--sm}
+[Grafana](#){:.button.button--outline-info.button--rounded.button--sm}
+[Python](#){:.button.button--outline-info.button--rounded.button--sm}
+[Redis](#){:.button.button--outline-info.button--rounded.button--sm}
+[Kafka](#){:.button.button--outline-info.button--rounded.button--sm}
+[Groovy](#){:.button.button--outline-warning.button--rounded.button--sm}
+[Nexus](#){:.button.button--outline-warning.button--rounded.button--sm}
+[Helmfile](#){:.button.button--outline-warning.button--rounded.button--sm}
+[helm](#){:.button.button--outline-warning.button--rounded.button--sm}
+[GitHub Actions](#){:.button.button--outline-warning.button--rounded.button--sm}
 
   </div>
 </div>
