@@ -6,7 +6,7 @@ aside:
   toc: true
 permalink: /resume-v2.html
 
-author: Harry The DevOps Guy
+author: HarryTheDevOpsGuy
 show_author_profile: true
 ---
 
