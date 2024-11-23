@@ -135,7 +135,7 @@ permalink: /resume-v3.html
 [English](#){:.button.button--outline-success.button--rounded.button--sm}
 [Hindi](#){:.button.button--outline-success.button--rounded.button--sm}
 
-## 🐙 Contributions
+## 🐙 Code
 [mCert](https://github.com/HarryTheDevOpsGuy/mCert){:.button.button--outline-success.button--rounded.button--sm}
 [mStatus](https://github.com/HarryTheDevOpsGuy/mStatus){:.button.button--outline-success.button--rounded.button--sm}
 [mSend](https://github.com/HarryTheDevOpsGuy/mSend){:.button.button--outline-success.button--rounded.button--sm}
