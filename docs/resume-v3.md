@@ -19,13 +19,13 @@ permalink: /resume-v3.html
 
   <div class="cell cell--auto content pr-1" style="text-align: right;" markdown="1">
 
-![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:100px"} 
+![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:80px"} 
 
   </div>
   <div class="cell cell--shrink content" markdown="1">
 
-📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com) <br>
-📞 [7503721297](tel:+917503721297)
+📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com){:.button.button--success.button--rounded.button--xs} <br>
+📞 [7503721297](tel:+917503721297){:.button.button--success.button--rounded.button--xs}
 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HarryTheDevOpsGuy)<br>
 🚀 DevOps Architect | 📈 CI/CD Specialist
