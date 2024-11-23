@@ -32,6 +32,31 @@ permalink: /resume-v3.html
   </div>
 </div>
 
+
+<div class="grid" markdown="1">
+  <div class="cell cell--12 cell--md-8 cell--lg-8 content" markdown="1">
+
+## 🎯 Technical Skills & Rating
+
+| **🛠️Tools & Technologies**                                                             | **🌟Rating**                    | 
+|------------------|--------------------------------------------------------------------------------------------------------|
+| Ansible, Jenkins, Telegraf, Linux, Shell Script, Docker                                                      | ⭐⭐⭐⭐⭐ |
+| AWS, Terraform, Kubernetes, Argocd, Karpenter, ELK Stack, Packer, Prometheus, OpenResty/Nginx, Grafana        | ⭐⭐⭐⭐    | 
+| Python, Redis, Kafka, Groovy Script, Nexus, MySQL, Helm, Helmfile, GitHub Actions,                         | ⭐⭐⭐      | 
+
+
+  </div>
+  <div class="cell cell--12 cell--md-4 cell--lg-4 content" markdown="1">
+
+## 📚 Education
+
+🎓 **Bachelor of Commerce** | Delhi University | 🗓️ 2014 
+📜 **Senior Secondary School** | CBSE, Delhi | 🗓️ 2010
+📘 **High School** | CBSE, Delhi | 🗓️ 2008
+
+  </div>
+</div>
+
 ## 🎯 Technical Skills & Rating
 
 | **🛠️Tools & Technologies**                                                             | **🌟Rating**                    | 
