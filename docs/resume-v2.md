@@ -17,8 +17,7 @@ show_author_profile: false
 
 <div class="grid">
   <div class="cell cell--12 cell--lg-8 content" markdown="1">
-12/12/6 cells
-  
+
 ## 👨‍💻 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
 
@@ -26,7 +25,6 @@ show_author_profile: false
   <div class="cell cell--12 cell--md-8 cell--lg-4 content" markdown="1">
 
 ## 📚 Education
-
 - 🎓 **Bachelor of Commerce** - Delhi University - 2014 
 - 📜 **Senior Secondary School** - CBSE, Delhi - 2010
 - 📘 **High School** - CBSE, Delhi - 2008
