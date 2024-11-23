@@ -85,17 +85,16 @@ permalink: /resume-v3.html
   </div>
   <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
 
-### 📚 Education
+## 📚 Education
 🎓 **Bachelor of Commerce** - Delhi University - 2014<br>
 🏫 **Senior Secondary School** - CBSE, Delhi - 2010<br>
 🏫 **High School** - CBSE, Delhi - 2008<br>
 
-### 💬 Languages
+## 💬 Languages
 [English](#){:.button.button--outline-success.button--rounded.button--sm}
 [Hindi](#){:.button.button--outline-success.button--rounded.button--sm}
 
-### 🎯 Technical Skills
-
+## 🎯 Skills
 [Ansible](#){:.button.button--success.button--rounded.button--xs}
 [Jenkins](#){:.button.button--success.button--rounded.button--xs}
 [Telegraf](#){:.button.button--success.button--rounded.button--xs}
