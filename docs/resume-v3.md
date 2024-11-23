@@ -49,13 +49,13 @@ permalink: /resume-v3.html
 ### 🏢 One97 Communications Limited
 👨‍💻 **Sr. DevOps Lead** | 📍 Noida | 🗓️ Mar-20 – Present 
     
-  - 🚀 Optimized Kubernetes clusters with **Helm** and **Helmfile**, ensuring 99.99% uptime. 
-  - 📈 Automated infrastructure provisioning using **Ansible**, **Terraform** and **Packer**.
-  - 🐙 Built and deployed CI/CD pipelines with **Jenkins as Code** and **Groovy scripting**, reducing release times by 40%.
-  - 🌐 Implemented centralized logging using the **ELK Stack**, improving troubleshooting efficiency.
-  - 🔧 Developed a fully automated **blue-green deployment** pipeline with **0 downtime** using **Jenkins, AWS ALB and ASG,Cloudwatch**.
+  🚀 Optimized Kubernetes clusters with **Helm** and **Helmfile**, ensuring 99.99% uptime. 
+  <br>📈 Automated infrastructure provisioning using **Ansible**, **Terraform** and **Packer**.
+  <br>🐙 Built and deployed CI/CD pipelines with **Jenkins as Code** and **Groovy scripting**, reducing release times by 40%.
+  <br>🌐 Implemented centralized logging using the **ELK Stack**, improving troubleshooting efficiency.
+  <br>🔧 Developed a fully automated **blue-green deployment** pipeline with **0 downtime** using **Jenkins, AWS ALB and ASG,Cloudwatch**.
 
-### ![Ziploan](https://static-asset.inc42.com/ziploan.png) Ziploan
+### 🏢 Ziploan
 👨‍💻 **Sr. DevOps Engineer** | 📍 Delhi | 🗓️ Oct-19 – Mar-20
 
   - Migrated on-premises applications to **AWS**, resulting in a 50% reduction in hosting costs.  
