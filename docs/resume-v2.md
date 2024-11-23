@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: article
 title: Hari Prasad | DevOps Lead | 11+ Years
 key: myresume
 aside:
@@ -14,6 +14,22 @@ show_author_profile: true
 **🚀 DevOps Architect | 🌐 Cloud Enthusiast | 📈 CI/CD Specialist**  
 📧 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com) | 📞 [7503721297](tel:+917503721297) | 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) | 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-profile)
 
+<div class="article__content" markdown="1">
+
+<div class="article__content" markdown="1">
+
+## 👨‍💻 **Professional Summary** 
+🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
+
+</div>
+<div class="article__content" markdown="1">
+
+## 👨‍💻 **Professional Summary** 
+🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
+
+</div>
+
+</div>
 
 ## 👨‍💻 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
