@@ -65,14 +65,6 @@ permalink: /resume-v3.html
   </div>
 </div>
 
-## 🎯 Technical Skills & Rating
-
-| **🛠️Tools & Technologies**                                                             | **🌟Rating**                    | 
-|------------------|--------------------------------------------------------------------------------------------------------|
-| Ansible, Jenkins, Telegraf, Linux, Shell Script, Docker                                                      | ⭐⭐⭐⭐⭐ |
-| AWS, Terraform, Kubernetes, Argocd, Karpenter, ELK Stack, Packer, Prometheus, OpenResty/Nginx, Grafana        | ⭐⭐⭐⭐    | 
-| Python, Redis, Kafka, Groovy Script, Nexus, MySQL, Helm, Helmfile, GitHub Actions,                         | ⭐⭐⭐      | 
-
 
 ## 💼 Work Experience
 
