@@ -95,15 +95,15 @@ permalink: /resume-v3.html
 [Hindi](#){:.button.button--outline-success.button--rounded.button--sm}
 
 ## 🎯 Skills
-[Ansible](#){:.button.button--success.button--rounded.button--sm}
-[Jenkins](#){:.button.button--success.button--rounded.button--sm}
-[Telegraf](#){:.button.button--success.button--rounded.button--sm}
-[Shell Script](#){:.button.button--success.button--rounded.button--sm}
-[AWS](#){:.button.button--primary.success--rounded.button--sm}
-[Terraform](#){:.button.button--success.button--rounded.button--sm}
-[Kubernetes](#){:.button.button--primary.button--rounded.button--sm}
-[Argocd](#){:.button.button--primary.button--rounded.button--sm}
-[Karpenter](#){:.button.button--primary.button--rounded.button--sm}
+[Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
+[Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
+[Telegraf](#){:.button.button--outline-success.button--rounded.button--sm}
+[Shell Script](#){:.button.button--outline-success.button--rounded.button--sm}
+[AWS](#){:.button.button--outline-success.outline-success--rounded.button--sm}
+[Terraform](#){:.button.button--outline-success.button--rounded.button--sm}
+[Kubernetes](#){:.button.button--outline-success.button--rounded.button--sm}
+[Argocd](#){:.button.button--outline-success.button--rounded.button--sm}
+[Karpenter](#){:.button.button--outline-success.button--rounded.button--sm}
 [ELK Stack](#){:.button.button--outline-success.button--rounded.button--sm}
 [Packer](#){:.button.button--outline-success.button--rounded.button--sm}
 [Prometheus](#){:.button.button--outline-success.button--rounded.button--sm}
