@@ -43,12 +43,14 @@ permalink: /resume-v3.html
 
 ### 🏢 One97 Communications Limited
 👨‍💻 **Sr. DevOps Lead** | 📍 Noida | 🗓️ Mar-20 – Present 
-    
-  - 🚀 Optimized Kubernetes clusters with **Helm** and **Helmfile**, ensuring 99.99% uptime. 
-  - 📈 Automated infrastructure provisioning using **Ansible**, **Terraform** and **Packer**.
-  - 🐙 Built and deployed CI/CD pipelines with **Jenkins as Code** and **Groovy scripting**, reducing release times by 40%.
-  - 🌐 Implemented centralized logging using the **ELK Stack**, improving troubleshooting efficiency.
+
   - 🔧 Developed a fully automated **blue-green deployment** pipeline with **0 downtime** using **Jenkins, AWS ALB and ASG,Cloudwatch**.
+  - ☁️ **Cloud Infrastructure Management**: Oversee and manage cloud infrastructure, leveraging tools such as **Terraform**, **Ansible**, **Jenkins**, **Packer**, and **AWS** to ensure scalable, efficient, and reliable environments.
+  - 📦 **Automated AMI Creation & Security**: Develop and maintain automated golden AMIs, ensuring timely security patching and Linux hardening to mitigate security vulnerabilities and maintain compliance with industry standards.
+  - 🔄 **CI/CD Pipeline Provisioning**: Design, provision, and maintain CI/CD pipelines to enable automated deployments of applications across different environments, ensuring smooth and reliable release processes.
+  - 📊 **Monitoring & Logging Setup**: Implement and configure comprehensive monitoring and logging systems to track and maintain production infrastructure health, leveraging tools like **Prometheus**, **Grafana**, **ELK**, and **CloudWatch**.
+  - 🎯 **Team Management & Mentorship**: Lead and manage a small team of DevOps engineers, providing guidance, mentorship, and support to help them grow and succeed in their roles.
+  - 🕸️ **Kubernetes & Application Management**: Manage Kubernetes clusters and implement **CI/CD** pipelines as code using **ArgoCD**, **Helm**, and **Helmfile**, ensuring efficient and scalable application deployments.
 
 ### 🏢 Ziploan
 👨‍💻 **Sr. DevOps Engineer** | 📍 Delhi | 🗓️ Oct-19 – Mar-20
@@ -119,14 +121,13 @@ permalink: /resume-v3.html
 [English](#){:.button.button--outline-success.button--rounded.button--sm}
 [Hindi](#){:.button.button--outline-success.button--rounded.button--sm}
 
-#### 🐙 Github Projects
-
-  [mCert](https://github.com/HarryTheDevOpsGuy/mCert){:.button.button--outline-success.button--rounded.button--sm}
-  [mStatus](https://github.com/HarryTheDevOpsGuy/mStatus){:.button.button--outline-success.button--rounded.button--sm}
-  [mSend](https://github.com/HarryTheDevOpsGuy/mSend){:.button.button--outline-success.button--rounded.button--sm}
-  [mLog](https://github.com/HarryTheDevOpsGuy/mLog){:.button.button--outline-success.button--rounded.button--sm}
-  [mTracker](https://github.com/HarryTheDevOpsGuy/mTracker){:.button.button--outline-success.button--rounded.button--sm}
-  [mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher){:.button.button--outline-success.button--rounded.button--sm}
+## 🐙 Contributions
+[mCert](https://github.com/HarryTheDevOpsGuy/mCert){:.button.button--outline-success.button--rounded.button--sm}
+[mStatus](https://github.com/HarryTheDevOpsGuy/mStatus){:.button.button--outline-success.button--rounded.button--sm}
+[mSend](https://github.com/HarryTheDevOpsGuy/mSend){:.button.button--outline-success.button--rounded.button--sm}
+[mLog](https://github.com/HarryTheDevOpsGuy/mLog){:.button.button--outline-success.button--rounded.button--sm}
+[mTracker](https://github.com/HarryTheDevOpsGuy/mTracker){:.button.button--outline-success.button--rounded.button--sm}
+[mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher){:.button.button--outline-success.button--rounded.button--sm}
 
   </div>
 </div>
