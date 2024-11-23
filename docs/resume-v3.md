@@ -97,11 +97,12 @@ permalink: /resume-v3.html
 ## 🎯 Skills
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
+[AWS](#){:.button.button--outline-success.outline-success--rounded.button--sm}
 [Telegraf](#){:.button.button--outline-success.button--rounded.button--sm}
 [Shell Script](#){:.button.button--outline-success.button--rounded.button--sm}
-[AWS](#){:.button.button--outline-success.outline-success--rounded.button--sm}
 [Terraform](#){:.button.button--outline-success.button--rounded.button--sm}
 [Kubernetes](#){:.button.button--outline-success.button--rounded.button--sm}
+[helm](#){:.button.button--outline-warning.button--rounded.button--sm}
 [Argocd](#){:.button.button--outline-success.button--rounded.button--sm}
 [Karpenter](#){:.button.button--outline-success.button--rounded.button--sm}
 [ELK Stack](#){:.button.button--outline-success.button--rounded.button--sm}
@@ -117,7 +118,6 @@ permalink: /resume-v3.html
 [Groovy](#){:.button.button--outline-warning.button--rounded.button--sm}
 [Nexus](#){:.button.button--outline-warning.button--rounded.button--sm}
 [Helmfile](#){:.button.button--outline-warning.button--rounded.button--sm}
-[helm](#){:.button.button--outline-warning.button--rounded.button--sm}
 [GitHub Actions](#){:.button.button--outline-warning.button--rounded.button--sm}
 
   </div>
