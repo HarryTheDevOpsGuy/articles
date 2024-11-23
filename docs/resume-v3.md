@@ -31,8 +31,6 @@ permalink: /resume-v3.html
 
   </div>
 </div>
-
-
 <div class="grid" markdown="1">
   <div class="cell cell--12 cell--md-8 cell--lg-8 content" markdown="1">
 
