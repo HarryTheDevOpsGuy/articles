@@ -5,6 +5,9 @@ key: myresume
 aside:
   toc: true
 permalink: /resume-v2.html
+
+author: Tian Qi
+show_author_profile: true
 ---
 
 # ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:70px"} **Hari Prasad**
