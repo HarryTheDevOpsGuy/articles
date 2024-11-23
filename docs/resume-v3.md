@@ -125,7 +125,7 @@ permalink: /resume-v3.html
 
 
 
-
+<div class="grid d-print-none" markdown="1">
 
 ## 🛠️ Notable Projects
 
@@ -152,3 +152,5 @@ Build Dynamic AMI Creation solution using Shell Script, Packer, Ansible, Cloud-i
 - **"Configuring ModSecurity with OpenResty for Web Security"**  
 - **"Kubernetes Cluster Scaling with Karpenter"**  
 - **"Terraform Best Practices for Multi-Environment Deployments"**
+
+</div>
