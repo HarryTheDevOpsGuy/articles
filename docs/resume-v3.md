@@ -34,17 +34,15 @@ permalink: /resume-v3.html
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
 
 ## 🎯 Technical Skills
-
-- 🛠️ **DevOps Tools**  
-- ☁️ **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, EKS)
-- 🔧 **Infrastructure as Code (IaC)**: Terraform, Ansible
-- 🚀 **CI/CD Pipelines**: Jenkins, Groovy Scripting, Jenkins as Code, GitHub
-- 🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm
-- 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-- 📥 **Caching & Messaging Queues**: Kafka, Redis 
-- 🌐 **Web Servers**: Nginx, Openresty, tomcat 
-- 💻 **Programming & Scripting Languages**: Python, Bash, Groovy
-- 🔗 **Version Control** 
+  - 🛠️ **DevOps Tools**  
+  - ☁️ **Cloud Platforms**: AWS (EC2, S3, RDS, Lambda, EKS)
+  - 🔧 **Infrastructure as Code (IaC)**: Terraform, Ansible
+  - 🚀 **CI/CD Pipelines**: Jenkins, Groovy Scripting, Jenkins as Code, GitHub
+  - 🐳 **Containerization & Orchestration**: Docker, Kubernetes, Helm
+  - 📊 **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+  - 📥 **Caching & Messaging Queues**: Kafka, Redis 
+  - 🌐 **Web Servers**: Nginx, Openresty, tomcat 
+  - 💻 **Programming & Scripting Languages**: Python, Bash, Groovy
    
 
 ## 💼 Work Experience
