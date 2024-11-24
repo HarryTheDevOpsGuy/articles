@@ -179,4 +179,8 @@ Build Dynamic AMI Creation solution using Shell Script, Packer, Ansible, Cloud-i
   - **"Kubernetes Cluster Scaling with Karpenter"**  
   - **"Terraform Best Practices for Multi-Environment Deployments"**
 
+<script>
+  {%- include scripts/archieve.js -%}
+</script>
+
 </div>
