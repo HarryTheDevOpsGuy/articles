@@ -142,7 +142,7 @@ permalink: /resume.html
 [mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher){:.button.button--outline-success.button--rounded.button--sm}
 
 ## ☎️ Contacts
-[![Contact me](assets/images/MyQR.png)](https://wa.me/917503721297?text=👋Hi!)
+[![Contact me](assets/images/MyQR.png)](https://wa.me/917503721297?text=Hi)
  
   </div>
 </div>
