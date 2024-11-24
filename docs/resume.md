@@ -11,6 +11,7 @@ permalink: /resume.html
   <div class="cell cell--shrink content" markdown="1">
 
 # **Hari Prasad**
+🚀 DevOps Architect | 📈 CI/CD Specialist
 
   </div>
   <div class="cell cell--auto content pr-2" style="text-align: right;" markdown="1">
