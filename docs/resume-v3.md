@@ -102,9 +102,6 @@ permalink: /resume-v3.html
   </div>
   <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
 
-## ☎️ Contact Info
-![Contact Info](assets/images/MyQR.png){:.border.rounded}
-
 ## 🎯 Skills
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
@@ -146,6 +143,10 @@ permalink: /resume-v3.html
 [mLog](https://github.com/HarryTheDevOpsGuy/mLog){:.button.button--outline-success.button--rounded.button--sm}
 [mTracker](https://github.com/HarryTheDevOpsGuy/mTracker){:.button.button--outline-success.button--rounded.button--sm}
 [mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher){:.button.button--outline-success.button--rounded.button--sm}
+
+
+## ☎️ Contact me
+![Contact me](assets/images/MyQR.png){:.border.rounded}
 
   </div>
 
