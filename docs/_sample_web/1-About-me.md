@@ -1,8 +1,8 @@
 ---
 layout: article
 title: MyCV-11Y
-permalink: /page/myresume.html
-key: page-sidebar-aside
+permalink: /web/myresume.html
+# key: page-sidebar-aside
 cover: /docs/assets/images/axure/page-sidebar-aside.jpg
 show_title: false
 aside:
