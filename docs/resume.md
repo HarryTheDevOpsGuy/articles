@@ -21,8 +21,11 @@ permalink: /resume.html
   <div class="cell cell--shrink content" markdown="1">
 
 🚀 DevOps Architect| 📈 CI/CD Specialist
-<br>📨 [HarrytheDevOpsGuy](mailto:HarrytheDevOpsGuy@gmail.com){:.button.button--success.button--rounded.button--sm}
-<br>📞 [7503721297](tel:+917503721297){:.button.button--success.button--rounded.button--sm}
+<br>📨 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com){:.button.button--success.button--rounded.button--sm}
+📞 [7503721297](tel:+917503721297){:.button.button--success.button--rounded.button--sm}
+<br>[![WhatsApp](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/917503721297?text=Hi)
+[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
+[![Github](https://img.icons8.com/fluency/48/github.png)](https://github.com/HarryTheDevOpsGuy)
 
   </div>
 </div>
