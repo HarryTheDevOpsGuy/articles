@@ -145,7 +145,7 @@ permalink: /resume-v3.html
 [mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher){:.button.button--outline-success.button--rounded.button--sm}
 
 
-## ☎️ Contact me
+## ☎️ Contacts
 ![Contact me](assets/images/MyQR.png){:.border.rounded}
 
   </div>
