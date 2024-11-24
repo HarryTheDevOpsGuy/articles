@@ -146,6 +146,7 @@ permalink: /resume.html
 [![WhatsApp](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/917503721297?text=Hi)
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
 [![Github](https://img.icons8.com/ios-filled/50/github.png)](https://github.com/HarryTheDevOpsGuy)
+[![Github](https://img.icons8.com/color/48/domain--v1.png)](https://harrythedevopsguy.github.io)
  
   </div>
 </div>
