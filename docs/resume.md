@@ -5,9 +5,6 @@ show_title: false
 aside:
   toc: true
 permalink: /resume.html
-
-#author: HarryTheDevOpsGuy
-#show_author_profile: true
 ---
 
 <div class="grid" markdown="1">
