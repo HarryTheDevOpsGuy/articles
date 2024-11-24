@@ -104,15 +104,11 @@ permalink: /resume-v3.html
   <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
 
 ## 🎯 Skills
-![Jenkins](https://img.icons8.com/color/48/jenkins.png)
-![Grafana](https://img.icons8.com/color/48/grafana.png)
-![Redis](https://img.icons8.com/color/48/redis.png)
-![Nginx](https://img.icons8.com/color/48/nginx.png)
-![Python](https://img.icons8.com/color/48/python.png)
-![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
-![Docker](https://img.icons8.com/color/48/docker.png)
-![Ansible](https://img.icons8.com/color/48/ansible.png)
-![Terraform](https://img.icons8.com/color/48/terraform.png)
+![Terraform](https://img.icons8.com/color/32/terraform.png)
+![Jenkins](https://img.icons8.com/color/32/jenkins.png)
+![Ansible](https://img.icons8.com/color/32/ansible.png)
+![Kubernetes](https://img.icons8.com/color/32/kubernetes.png)
+
 ![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
