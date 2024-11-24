@@ -96,9 +96,7 @@ permalink: /resume.html
   - Managed and maintained **MS SQL Server** and ensured smooth operation of Windows-based applications.  
   - Diagnosed and resolved **network connectivity issues** for office systems and development environments.  
   - Performed regular maintenance and updates on **Windows and Linux servers** to ensure optimal performance.  
-  - Implemented backup and recovery strategies for critical **SQL Server databases**.   
-    
-##### 🙏 **Thank You** 🙏
+  - Implemented backup and recovery strategies for critical **SQL Server databases**.
 
 
   </div>
