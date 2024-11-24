@@ -21,10 +21,10 @@ permalink: /resume.html
   <div class="cell cell--shrink content" markdown="1">
 
 **🚀 CI/CD Specialist**
-<br>[![WhatsApp](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/917503721297?text=Hi)
-[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
-[![Github](https://img.icons8.com/fluency/48/github.png)](https://github.com/HarryTheDevOpsGuy)
-[![Gmail](https://img.icons8.com/fluency/48/gmail-new.png)](mailto:HarrytheDevOpsGuy@gmail.com)
+<br>[![WhatsApp](https://img.icons8.com/color/32/whatsapp--v1.png)](https://wa.me/917503721297?text=Hi)
+[![LinkedIn](https://img.icons8.com/fluency/32/linkedin.png)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
+[![Github](https://img.icons8.com/fluency/32/github.png)](https://github.com/HarryTheDevOpsGuy)
+[![Gmail](https://img.icons8.com/fluency/32/gmail-new.png)](mailto:HarrytheDevOpsGuy@gmail.com)
 
   </div>
 </div>
