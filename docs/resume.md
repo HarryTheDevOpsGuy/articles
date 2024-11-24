@@ -20,7 +20,7 @@ permalink: /resume.html
   </div>
   <div class="cell cell--shrink content" markdown="1">
 
-**🚀 DevOps Architect| 📈 CI/CD Specialist**
+**🚀 CI/CD Specialist**
 <br>[![WhatsApp](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/917503721297?text=Hi)
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
 [![Github](https://img.icons8.com/fluency/48/github.png)](https://github.com/HarryTheDevOpsGuy)
