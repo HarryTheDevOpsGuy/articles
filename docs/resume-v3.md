@@ -111,6 +111,9 @@ permalink: /resume-v3.html
 ![Python](https://img.icons8.com/color/48/python.png)
 ![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
 ![Docker](https://img.icons8.com/color/48/docker.png)
+![Ansible](https://img.icons8.com/color/48/ansible.png)
+![Terraform](https://img.icons8.com/color/48/terraform.png)
+![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
 [AWS](#){:.button.button--outline-success.outline-success--rounded.button--sm}
