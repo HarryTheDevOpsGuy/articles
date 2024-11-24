@@ -1,11 +1,11 @@
 ---
 layout: article
-title: 1
+title: CV - Hari Prasad - 11+ years
 show_title: false
-key: myresume
+# key: myresume
 aside:
   toc: true
-permalink: /resume-v3.html
+permalink: /resume.html
 
 #author: HarryTheDevOpsGuy
 #show_author_profile: true
