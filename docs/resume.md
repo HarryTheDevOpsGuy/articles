@@ -25,7 +25,7 @@ permalink: /resume.html
 
 📨 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com){:.button.button--success.button--rounded.button--sm} <br>
 📞 [7503721297](tel:+917503721297){:.button.button--success.button--rounded.button--sm}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-verma-19b948154){:.button.button--success.button--rounded.button--sm}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HarryTheDevOpsGuy)<br>
 **🚀 DevOps Architect | 📈 CI/CD Specialist**
 
@@ -143,8 +143,8 @@ permalink: /resume.html
 
 ## ☎️ Contacts
 [![Contact me](assets/images/MyQR.png)](https://wa.me/917503721297?text=Hi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917503721297?text=Hi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
+[![WhatsApp](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/917503721297?text=Hi)
+[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
  
   </div>
 </div>
