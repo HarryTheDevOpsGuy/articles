@@ -2,7 +2,6 @@
 layout: article
 title: CV - Hari Prasad - 11+ years
 show_title: false
-# key: myresume
 aside:
   toc: true
 permalink: /resume.html
@@ -17,11 +16,9 @@ permalink: /resume.html
 # **Hari Prasad**
 
   </div>
-
   <div class="cell cell--auto content pr-2" style="text-align: right;" markdown="1">
 
 ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:80px"} 
-
 
   </div>
   <div class="cell cell--shrink content" markdown="1">
@@ -34,7 +31,6 @@ permalink: /resume.html
 
   </div>
 </div>
-
 <div class="grid" markdown="1">
   <div class="cell cell--12 cell--md-9 cell--lg-9 content pr-2" style="text-align: justify;" markdown="1">
 
@@ -64,7 +60,6 @@ permalink: /resume.html
   - Wrote **Ansible roles** to automate Linux setup and software installations.  
   - Developed **Jenkins pipelines** using Groovy scripts for efficient CI/CD.
 
-
 ### 🏢 KiwiTech 
 👨‍💻 **DevOps Engineer** | 📍 Noida | 🗓️ 2017 – Oct-19
 
@@ -75,8 +70,7 @@ permalink: /resume.html
   - Optimized server configurations for performance, security, and scalability.    
   - Designed robust automation scripts to reduce manual tasks and improve operational efficiency.  
   - Created and maintained detailed documentation for infrastructure processes and tools.  
-  - Troubleshot and resolved high-priority production issues under tight SLAs.  
-  
+  - Troubleshot and resolved high-priority production issues under tight SLAs.    
 
 ### 🏢 Xeliumtech Solutions  
 👨‍💻 **Linux System Administrator (DevOps)** | 📍 Gurugram | 🗓️ 2015 – 2017
@@ -87,8 +81,6 @@ permalink: /resume.html
   - Implemented best practices for server security, including firewalls, user management, and SSL configurations.
   - Developed automation scripts to reduce manual tasks and improve operational efficiency. 
 
-
-
 ### 🏢 Dental Council Of India (DCI)
 👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ 2013 – 2015
 
@@ -97,7 +89,6 @@ permalink: /resume.html
   - Diagnosed and resolved **network connectivity issues** for office systems and development environments.  
   - Performed regular maintenance and updates on **Windows and Linux servers** to ensure optimal performance.  
   - Implemented backup and recovery strategies for critical **SQL Server databases**.
-
 
   </div>
   <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
@@ -150,18 +141,13 @@ permalink: /resume.html
 [mTracker](https://github.com/HarryTheDevOpsGuy/mTracker){:.button.button--outline-success.button--rounded.button--sm}
 [mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher){:.button.button--outline-success.button--rounded.button--sm}
 
-
-
 ## ☎️ Contacts
 ![Contact me](assets/images/MyQR.png){:.border.rounded}
 
   </div>
-
 </div>
-
 <!-- Below is not printable -->
 <div class="d-print-none" markdown="1">
-
 
 ## 🛠️ Notable Projects
 
