@@ -11,7 +11,6 @@ permalink: /resume.html
   <div class="cell cell--shrink content" markdown="1">
 
 # **Hari Prasad**
-🚀 DevOps Architect | 📈 CI/CD Specialist
 
   </div>
   <div class="cell cell--auto content pr-2" style="text-align: right;" markdown="1">
@@ -23,7 +22,7 @@ permalink: /resume.html
 
 📨 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com){:.button.button--success.button--rounded.button--sm}
 <br>📞 [7503721297](tel:+917503721297){:.button.button--success.button--rounded.button--sm}
-<br>**🚀 DevOps Architect | 📈 CI/CD Specialist**
+<br>🚀 DevOps Architect | 📈 CI/CD Specialist
 
   </div>
 </div>
