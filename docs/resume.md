@@ -20,8 +20,8 @@ permalink: /resume.html
   </div>
   <div class="cell cell--shrink content" markdown="1">
 
-**🚀 CI/CD Specialist**
-<br>📞 [7503721297](tel:+917503721297)
+**🚀 CI/CD Specialist**<br>
+**📞 7503721297**
 <br>[![WhatsApp](https://img.icons8.com/color/32/whatsapp--v1.png)](https://wa.me/917503721297?text=Hi)
 [![LinkedIn](https://img.icons8.com/fluency/32/linkedin.png)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
 [![Github](https://img.icons8.com/fluency/32/github.png)](https://github.com/HarryTheDevOpsGuy)
