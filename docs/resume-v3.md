@@ -30,7 +30,7 @@ permalink: /resume-v3.html
 📞 [7503721297](tel:+917503721297){:.button.button--success.button--rounded.button--sm}
 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
 🐙 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HarryTheDevOpsGuy)<br>
-🚀 DevOps Architect | 📈 CI/CD Specialist
+**🚀 DevOps Architect | 📈 CI/CD Specialist**
 
   </div>
 </div>
@@ -129,9 +129,10 @@ permalink: /resume-v3.html
 [GitHub Actions](#){:.button.button--outline-warning.button--rounded.button--sm}
 
 ## 📚 Education
-🎓 **Bachelor of Commerce** - Delhi University - 2014<br>
-🏫 **Senior Secondary School** - CBSE, Delhi - 2010<br>
-🏫 **High School** - CBSE, Delhi - 2008<br>
+🎓 B.Com, DU, Delhi   -     2014<br>
+🏫 12th, CBSE, Delhi  -     2010<br>
+🏫 10th,  CBSE, Delhi -     2008<br>
+📜 H/W & N/W, Delhi   -      2013<br>
 
 ## 💬 Languages
 [English](#){:.button.button--outline-success.button--rounded.button--sm}
