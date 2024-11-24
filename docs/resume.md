@@ -143,7 +143,9 @@ permalink: /resume.html
 
 ## ☎️ Contacts
 ![Contact me](assets/images/MyQR.png){:.border.rounded}
-
+[mCert](https://github.com/HarryTheDevOpsGuy/mCert){:.button.button--outline-success.button--rounded.button--sm}
+[WhatsApp](https://wa.me/917503721297) 
+ 
   </div>
 </div>
 <!-- Below is not printable -->
