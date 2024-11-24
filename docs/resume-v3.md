@@ -108,8 +108,8 @@ permalink: /resume-v3.html
 ![Jenkins](https://img.icons8.com/color/32/jenkins.png)
 ![Ansible](https://img.icons8.com/color/32/ansible.png)
 ![Kubernetes](https://img.icons8.com/color/32/kubernetes.png)
+![AWS](https://img.icons8.com/color/32/amazon-web-services.png)
 
-![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
 [AWS](#){:.button.button--outline-success.outline-success--rounded.button--sm}
