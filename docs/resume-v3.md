@@ -104,6 +104,13 @@ permalink: /resume-v3.html
   <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
 
 ## 🎯 Skills
+![Jenkins](https://img.icons8.com/color/48/jenkins.png)
+![Grafana](https://img.icons8.com/color/48/grafana.png)
+![Redis](https://img.icons8.com/color/48/redis.png)
+![Nginx](https://img.icons8.com/color/48/nginx.png)
+![Python](https://img.icons8.com/color/48/python.png)
+![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
+![Docker](https://img.icons8.com/color/48/docker.png)
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
 [AWS](#){:.button.button--outline-success.outline-success--rounded.button--sm}
@@ -145,6 +152,7 @@ permalink: /resume-v3.html
 [mLog](https://github.com/HarryTheDevOpsGuy/mLog){:.button.button--outline-success.button--rounded.button--sm}
 [mTracker](https://github.com/HarryTheDevOpsGuy/mTracker){:.button.button--outline-success.button--rounded.button--sm}
 [mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher){:.button.button--outline-success.button--rounded.button--sm}
+
 
 
 ## ☎️ Contacts
