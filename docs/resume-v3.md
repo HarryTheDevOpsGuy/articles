@@ -102,7 +102,7 @@ permalink: /resume-v3.html
   </div>
   <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
 
-## Contact Info
+## ☎️ Contact Info
 ![Contact Info](assets/images/MyQR.png){:.border.rounded}
 
 ## 🎯 Skills
