@@ -34,7 +34,7 @@ permalink: /resume-v3.html
 </div>
 
 <div class="grid" markdown="1">
-  <div class="cell cell--12 cell--md-9 cell--lg-9 content pr-2" style="text-align: justify; border-right:2px solid; border-right-style: inset;" markdown="1">
+  <div class="cell cell--12 cell--md-9 cell--lg-9 content pr-2" style="text-align: justify;" markdown="1">
 
 ## 📝 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
