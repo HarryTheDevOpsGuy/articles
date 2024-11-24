@@ -98,7 +98,7 @@ permalink: /resume.html
   - Performed regular maintenance and updates on **Windows and Linux servers** to ensure optimal performance.  
   - Implemented backup and recovery strategies for critical **SQL Server databases**.   
     
-##### 🙏 **Thank You for Your Time and Consideration**
+##### 🙏 **Thank You** 🙏
 
 
   </div>
