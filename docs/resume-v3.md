@@ -106,10 +106,8 @@ permalink: /resume-v3.html
 ## 🎯 Skills
 ![Terraform](https://img.icons8.com/color/48/terraform.png)
 ![Jenkins](https://img.icons8.com/color/48/jenkins.png)
-![Ansible](https://img.icons8.com/color/48/ansible.png)
-![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
 ![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
-![Prometheus](https://img.icons8.com/color/48/prometheus-app.png)
+![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
 
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
