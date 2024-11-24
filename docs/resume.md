@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Hari-Sr-DevOps-lead-11yrs-2024
+title: Hari-SrDevOpsLead-11yrs-2024
 show_title: false
 aside:
   toc: true
