@@ -20,9 +20,9 @@ permalink: /resume.html
   </div>
   <div class="cell cell--shrink content" markdown="1">
 
-📨 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com){:.button.button--success.button--rounded.button--sm} <br>
-📞 [7503721297](tel:+917503721297){:.button.button--success.button--rounded.button--sm}
-**🚀 DevOps Architect | 📈 CI/CD Specialist**
+📨 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com){:.button.button--success.button--rounded.button--sm}
+<br>📞 [7503721297](tel:+917503721297){:.button.button--success.button--rounded.button--sm}
+<br>**🚀 DevOps Architect | 📈 CI/CD Specialist**
 
   </div>
 </div>
