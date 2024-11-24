@@ -104,12 +104,12 @@ permalink: /resume-v3.html
   <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
 
 ## 🎯 Skills
-![Terraform](https://img.icons8.com/color/32/terraform.png)
-![Jenkins](https://img.icons8.com/color/32/jenkins.png)
-![Ansible](https://img.icons8.com/color/32/ansible.png)
-![Kubernetes](https://img.icons8.com/color/32/kubernetes.png)
-![AWS](https://img.icons8.com/color/32/amazon-web-services.png)
-![Prometheus](https://img.icons8.com/color/32/prometheus-app.png)
+![Terraform](https://img.icons8.com/color/48/terraform.png)
+![Jenkins](https://img.icons8.com/color/48/jenkins.png)
+![Ansible](https://img.icons8.com/color/48/ansible.png)
+![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
+![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
+![Prometheus](https://img.icons8.com/color/48/prometheus-app.png)
 
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
