@@ -144,7 +144,7 @@ permalink: /resume.html
 ## ☎️ Contacts
 [![Contact me](assets/images/MyQR.png)](https://wa.me/917503721297?text=Hi)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917503721297?text=Hi)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
  
   </div>
 </div>
