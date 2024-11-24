@@ -21,7 +21,7 @@ permalink: /resume.html
   <div class="cell cell--shrink content" markdown="1">
 
 🚀 DevOps Architect|📈 CI/CD Specialist
-<br>📨 [HarrytheDevOpsGuy@gmail.com](mailto:HarrytheDevOpsGuy@gmail.com){:.button.button--success.button--rounded.button--xs}
+<br>📨 [HarrytheDevOpsGuy](mailto:HarrytheDevOpsGuy@gmail.com){:.button.button--success.button--rounded.button--xs}
 <br>📞 [7503721297](tel:+917503721297){:.button.button--success.button--rounded.button--xs}
 
   </div>
