@@ -109,6 +109,7 @@ permalink: /resume-v3.html
 ![Ansible](https://img.icons8.com/color/32/ansible.png)
 ![Kubernetes](https://img.icons8.com/color/32/kubernetes.png)
 ![AWS](https://img.icons8.com/color/32/amazon-web-services.png)
+![Prometheus](https://img.icons8.com/color/32/prometheus-app.png)
 
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
