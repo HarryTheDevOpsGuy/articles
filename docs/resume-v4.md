@@ -1,6 +1,7 @@
 ---
-layout: resume
+layout: article
 title: 1
+show_title: false
 key: myresume
 aside:
   toc: true
