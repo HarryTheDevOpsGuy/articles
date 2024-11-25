@@ -42,6 +42,8 @@ docs-apps:
     children:
       - title:  BGDeployer - Deployment with zero downtime
         url:    /docs/apps/bgdeployer
+      - title:  "BG Deployer: A Shell-Based Blue-Green Deployment Solution"
+        url:    /docs/apps/bgdeployerv3
 
 docs-en:
   - title:      Start
