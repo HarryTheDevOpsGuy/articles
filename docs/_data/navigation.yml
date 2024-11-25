@@ -38,6 +38,10 @@ docs-apps:
     children:
       - title:  Getting Started with gCrypt
         url:    /docs/apps/gcrypt
+  - title:      BGDeployer
+    children:
+      - title:  BGDeployer - Deployment with zero downtime
+        url:    /docs/apps/bgdeployer
 
 docs-en:
   - title:      Start
