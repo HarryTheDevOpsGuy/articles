@@ -59,7 +59,7 @@ permalink: /resume.html
   - Developed **Jenkins pipelines** using Groovy scripts for efficient CI/CD.
 
 ### 🏢 KiwiTech 
-👨‍💻 **DevOps Engineer** | 📍 Noida | 🗓️ 2017 – Oct-19
+👨‍💻 **DevOps Engineer** | 📍 Noida | 🗓️ Nov-17 – Oct-19
 
   - Maintained and managed over 100+ **Linux servers** supporting mission-critical applications.  
   - Automated deployment workflows with **Jenkins** and **Ansible** for faster and consistent releases.  
@@ -71,7 +71,7 @@ permalink: /resume.html
   - Troubleshot and resolved high-priority production issues under tight SLAs.    
 
 ### 🏢 Xeliumtech Solutions  
-👨‍💻 **Linux System Administrator (DevOps)** | 📍 Gurugram | 🗓️ 2015 – 2017
+👨‍💻 **Linux System Administrator (DevOps)** | 📍 Gurugram | 🗓️ Dec-15 – Nov-17
 
   - Set up and configured **virtual machines** to host multiple websites using **LAMP stack** architecture.  
   - Managed **GitLab servers**, ensuring efficient version control and repository administration.  
@@ -80,7 +80,7 @@ permalink: /resume.html
   - Developed automation scripts to reduce manual tasks and improve operational efficiency. 
 
 ### 🏢 Dental Council Of India (DCI)
-👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ 2013 – 2015
+👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ Mar-13 – Dec-2015
 
   - Provided hands-on support for **desktop and laptop users**, resolving technical issues promptly.   
   - Managed and maintained **MS SQL Server** and ensured smooth operation of Windows-based applications.  
