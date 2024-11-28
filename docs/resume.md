@@ -166,6 +166,7 @@ permalink: /resume.html
   - 🚀 **[Openresty/Nginx Detailed Monitoring ](#)**: Developed **Lua script** to enable detailed **nginx/openresty** monitoring. 
   - 🚀 **[User Mangement Ansible Role](#)**: Developed Dynamic ansible role to create & manage Linux users as per project needs.
   - 🚀 **[CIS Linux Hardening](#)**: Developed ansible role to [hardening Linux server as per CIS benchmark](https://www.cisecurity.org/benchmark/amazon_linux)
+  - 🚀 **[Mastery in Karpenter](#)**: Deployed Karpenter to manage EKS worker node dynamically to reduce cost.
 
 ### 🌟 **Let’s connect and build scalable solutions together!**
 
