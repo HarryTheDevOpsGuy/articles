@@ -159,7 +159,7 @@ permalink: /resume.html
 - 🚀 **[mStatus](https://harrythedevopsguy.github.io/articles/docs/apps/mstatus)**: A Powerful utility to Check SSL and Website Status. Get notification instantly if anything goes wrong. 
 - 🚀 **[mSend](https://github.com/HarryTheDevOpsGuy/mSend)**: Tiny utility to send HTML Email Notifications.
 
-### 🔧 Deployed Solution as code
+## 🔧 Deployed Solution as code
   - 🚀 **[Jenkins as a Code](#)**: developed a solution to **provision**, **deploy**, manage **100% jenkins as code**.
   - 🚀 **[AWS Golden AMI Creation](#)**: Developed and configured **Jenkins** pipeline to Create Golden AMI as per project needs.
   - 🚀 **[EKS Cluster Management](#)**: Designed solution to Provision & Manage EKS cluster as code using **Terrform**, **Helmfile**, **Jenkins**, etc. 
