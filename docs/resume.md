@@ -148,6 +148,10 @@ permalink: /resume.html
 [![Portfolio](https://img.icons8.com/color/48/domain--v1.png)](https://harrythedevopsguy.github.io)
  
   </div>
+
+----
+🌟 **Let’s connect and build scalable solutions together!**
+
 </div>
 <!-- Below is not printable -->
 <div class="d-print-none" markdown="1">
