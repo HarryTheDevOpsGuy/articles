@@ -151,51 +151,24 @@ permalink: /resume.html
   </div>
 </div>
 
+## 🐙 Developed By Me
+- 🚀 **[BG Deployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)**: Shell-based Blue-Green Deployment solution.
+- 🛡️ **[mCert](https://github.com/HarryTheDevOpsGuy/mCert)**: Utility to monitor SSL certificate expiration and notify via Slack, Telegraf, and email.
+- 🔍 **[mTracker](https://github.com/HarryTheDevOpsGuy/mTracker)**: Utility to monitor Linux user activity and send Slack notifications.
+- 📊 **[mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher)**: Monitor Linux server health (CPU, Memory, Disk) and notify via Slack.
+- 🔒 **[gCrypt](https://harrythedevopsguy.github.io/articles/docs/apps/gcrypt)**: Git-crypt wrapper for secure repo data encryption and user access control.
+- ⚡ **[mStatus](https://harrythedevopsguy.github.io/articles/docs/apps/mstatus)**: Utility to check SSL and website status with instant notifications on failures.
+- ✉️ **[mSend](https://github.com/HarryTheDevOpsGuy/mSend)**: Utility to send HTML email notifications.
 
- ### 🛠️ **Projects Developed by Me**
-- **🚀 [BG Deployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3):**  
-  Developed a Shell-based Blue-Green Deployment solution, ensuring zero downtime and seamless updates in production.  
-
-- **🔒 [mCert](https://github.com/HarryTheDevOpsGuy/mCert):**  
-  Created a Shell-based utility to monitor SSL certificate expiration and send alerts via Slack, Telegraf, and email.  
-
-- **👤 [mTracker](https://github.com/HarryTheDevOpsGuy/mTracker):**  
-  Built a utility to track Linux user activity and send real-time notifications to Slack.  
-
-- **📊 [mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher):**  
-  Developed a monitoring utility for Linux servers to track CPU, memory, disk usage, and service status with Slack notifications.  
-
-- **🔐 [gCrypt](https://harrythedevopsguy.github.io/articles/docs/apps/gcrypt):**  
-  Created a Git-Crypt wrapper to simplify encryption of sensitive repository data and manage user access securely.  
-
-- **🌐 [mStatus](https://harrythedevopsguy.github.io/articles/docs/apps/mstatus):**  
-  Designed a powerful utility for SSL and website status checks, providing instant notifications if issues arise.  
-
-- **✉️ [mSend](https://github.com/HarryTheDevOpsGuy/mSend):**  
-  Built a lightweight utility for sending customizable HTML email notifications.  
-
-
-### 🚀 **Solutions as Code**
-- **📋 Jenkins as Code:**  
-  Developed a complete solution to provision, deploy, and manage Jenkins 100% as code, ensuring consistent configurations across environments.  
-
-- **📦 AWS Golden AMI Creation:**  
-  Designed and configured Jenkins pipelines to automate Golden AMI creation tailored to project requirements.  
-
-- **☸️ EKS Cluster Management:**  
-  Provisioned and managed EKS clusters using Terraform, Helmfile, and Jenkins, implementing infrastructure as code for scalability.  
-
-- **📈 OpenResty/Nginx Monitoring:**  
-  Developed Lua scripts to enable advanced monitoring of Nginx/OpenResty with detailed metrics for production environments.  
-
-- **👥 Linux User Management:**  
-  Created a dynamic Ansible role to manage Linux user accounts, including user creation, privilege management, and deactivation.  
-
-- **🛡️ CIS Linux Hardening:**  
-  Developed an Ansible role to harden Linux servers following the CIS Benchmark guidelines, ensuring compliance and security.  
-
-- **💰 Karpenter Expertise:**  
-  Deployed Karpenter for cost-efficient dynamic scaling of EKS worker nodes, reducing operational expenses significantly.  
+## 🔧 Deployed Solution as Code
+- 🏗️ **[Jenkins as Code](#)**: Provision, deploy, and manage Jenkins entirely as code.
+- 🖥️ **[AWS Golden AMI Creation](#)**: Automated creation of golden AMIs via Jenkins pipeline.
+- ☁️ **[EKS Cluster Management](#)**: Provision and manage EKS clusters as code using Terraform, Helmfile, and Jenkins.
+- 📊 **[OpenResty/Nginx Detailed Monitoring](#)**: Developed Lua script for detailed monitoring of Nginx/OpenResty.
+- 👥 **[User Management Ansible Role](#)**: Dynamic Ansible role for managing Linux users as per project needs.
+- 🛡️ **[CIS Linux Hardening](#)**: Developed Ansible role to harden Linux servers per [CIS benchmarks](https://www.cisecurity.org/benchmark/amazon_linux).
+- ⚙️ **[Mastery in Karpenter](#)**: Deployed Karpenter for dynamic EKS worker node management to reduce costs.
+ 
 
 ## ✨ **Footer** 
 _Thank you for considering my application. I look forward to the opportunity to contribute my skills and expertise to your team._ 
