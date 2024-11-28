@@ -50,8 +50,6 @@ permalink: /resume.html
   - 🕸️ Managed **Kubernetes clusters** and implemented CI/CD pipelines as code using **ArgoCD**, **Helm**, and **Helmfile**.
 
 
-
-
 ### 🏢 Ziploan
 👨‍💻 **Sr. DevOps Engineer** | 📍 Delhi | 🗓️ Oct-19 – Mar-20
 
