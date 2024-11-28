@@ -154,8 +154,8 @@ permalink: /resume.html
 
 
 ## 🐙 Developed Custom Solutions
-- **[mCert](https://github.com/HarryTheDevOpsGuy/mCert)**: Developed Shell Based Utility to monitor SSL Certificate expiration and Notify alert on Slack, telegraf, email.
-- **[BGDeployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)**: Developed custom Bluegreen deployment solution with Zero Downtime. 
+- 🚀 **[mCert](https://github.com/HarryTheDevOpsGuy/mCert)**: Developed Shell Based Utility to monitor SSL Certificate expiration and Notify alert on Slack, telegraf, email.
+- 🚀 **[BG Deployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)**: Developed a Shell-Based Blue-Green Deployment Solution.
 
 
 
