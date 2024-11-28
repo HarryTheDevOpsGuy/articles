@@ -154,6 +154,9 @@ permalink: /resume.html
 ## 🐙 Developed By Me 
 - 🚀 **[mCert](https://github.com/HarryTheDevOpsGuy/mCert)**: Developed Shell Based Utility to monitor SSL Certificate expiration and Notify alert on Slack, telegraf, email.
 - 🚀 **[BG Deployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)**: Developed a Shell-Based Blue-Green Deployment Solution.
+- 🚀 **[mTracker](https://github.com/HarryTheDevOpsGuy/mTracker)**: Developed Small Utility to monitor linux user Activity and notify over the slack. 
+- 🚀 **[gCrypt](https://github.com/HarryTheDevOpsGuy/gCrypt)**: Developed wrapper of git-crypt to simlify to encrypt/secure sensitive data in repo. provide access to users. 
+
 ### 🌟 **Let’s connect and build scalable solutions together!**
 
 
