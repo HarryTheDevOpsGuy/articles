@@ -36,20 +36,17 @@ permalink: /resume.html
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation**, **CI/CD pipelines**, and **infrastructure as code (IaC)**. Proficient in tools like **Terraform, Ansible, Packer, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Skilled in designing scalable, secure, and highly available systems. Strong collaboration skills with a focus on bridging the gap between development and operations
 
 
-## 🔧 DevOps Skills
+## 🎯 DevOps Skills
 
-- 🚀 **CI/CD Automation**: Proficient in creating and maintaining automated CI/CD pipelines using **Jenkins**, **GitLab CI**, **ArgoCD**, and **GitHub Actions**.
-- ☁️ **Cloud Infrastructure Management**: Expertise in managing cloud environments with **AWS**, **Azure**, and **GCP**, utilizing services like EC2, S3, RDS, VPC, and Lambda.
-- ⚙️ **Infrastructure as Code (IaC)**: Skilled in automating infrastructure provisioning and management using **Terraform**, **CloudFormation**, and **Ansible**.
-- 🐳 **Containerization & Orchestration**: Hands-on experience with **Docker**, **Kubernetes**, **Helm**, and **EKS** for containerized application deployment and management.
-- 🔒 **Security & Compliance**: Knowledgeable in **Linux Hardening**, **CIS Benchmarks**, **AWS Security Best Practices**, and managing sensitive data with **HashiCorp Vault**.
-- 📦 **Automation & Scripting**: Strong proficiency in **Bash**, **Python**, and **Groovy** scripting for automation tasks and system integration.
+- 🚀 **CI/CD Automation**: Proficient in creating and maintaining automated CI/CD pipelines using **Jenkins**, **ArgoCD**, and **GitHub Actions**.
+- ☁️ **Cloud Infrastructure Management**: Expertise in managing AWS services like EC2, S3, RDS, VPC, IAM, CloudWatch, Secrets, Route 53, Lambda, and more.
+- 🔧 **Configuration Management**: Strong experience with **Ansible**, **Terraform**, and **Packer** for automating system configuration, provisioning, and infrastructure management.
+- ⚡ **Infrastructure as Code (IaC)**: Proficient in using **Terraform** and **Ansible** to manage infrastructure as code and ensure repeatable deployments.
+- 🐳 **Containerization & Orchestration**: Hands-on experience with **Docker**, **Kubernetes**, **Helm**, **Karpenter** and **EKS** for containerized application deployment and management.
+- 🛡️ **Security & Compliance**: Knowledge in security best practices, including **CIS Linux hardening**, vulnerability patching, encryption (Git-crypt) and managing sensitive data with **Vault**.
+- 📦 **Automation & Scripting**: Proficiency in **Bash**, **Python**, and **Groovy** scripting for automation tasks and system integration.
 - 📊 **Monitoring & Logging**: Experienced in setting up and managing monitoring/logging systems using **Prometheus**, **Grafana**, **ELK Stack**, and **CloudWatch**.
-- 🛠️ **Configuration Management**: Proficient in using **Ansible**, **Chef**, and **Puppet** for configuration management and automation.
-- 🌐 **Web & Application Servers**: Hands-on experience with **Nginx**, **Apache**, **Tomcat**, **OpenResty**, and **HAProxy** for load balancing and application delivery.
-- 🛠️ **Version Control & Collaboration**: Advanced knowledge of **Git**, **GitHub**, **GitLab**, and **Bitbucket** for source code management and collaboration.
-- 🧪 **Testing & QA Automation**: Familiar with **JUnit**, **Selenium**, and **TestNG** for implementing automated testing within CI/CD pipelines.
-- 🌍 **Disaster Recovery & Backup**: Implemented automated backup solutions and disaster recovery processes using **AWS Backup**, **S3**, and **EC2 snapshots**.
+- 🌐 **Web & Application Servers**: Hands-on experience with **Nginx**, **Apache**, **Tomcat**, **OpenResty**
 
 
 ## 💼 Work Experience
