@@ -150,13 +150,11 @@ permalink: /resume.html
   </div>
 </div>
 
-### 🌟 **Let’s connect and build scalable solutions together!**
 
-
-## 🐙 Developed Custom Solutions
+## 🐙 Developed By Me 
 - 🚀 **[mCert](https://github.com/HarryTheDevOpsGuy/mCert)**: Developed Shell Based Utility to monitor SSL Certificate expiration and Notify alert on Slack, telegraf, email.
 - 🚀 **[BG Deployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)**: Developed a Shell-Based Blue-Green Deployment Solution.
-
+### 🌟 **Let’s connect and build scalable solutions together!**
 
 
 <!-- Below is not printable -->
