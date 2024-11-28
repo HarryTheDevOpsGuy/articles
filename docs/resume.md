@@ -39,13 +39,13 @@ permalink: /resume.html
 ## Tools & Technologies
 
 | **Category**                  | **Tools**                                         |
-|-------------------------------|--------------------------------------------------|
-| **Cloud Platforms**            | AWS (EC2, S3, RDS, Lambda, EKS), GCP, Azure      |
-| **CI/CD**                      | Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD    |
-| **Containerization**           | Docker, Kubernetes, Helm, Karpenter              |
+|-------------------------------|---------------------------------------------------|
+| **Cloud Platforms**            | AWS (EC2, S3, RDS, ASG, Lambda, EKS, etc.)       |
+| **CI/CD**                      | Jenkins, GitHub Actions, ArgoCD                  |
+| **Containerization**           | Docker, Kubernetes, Helm, Karpenter, helmfile    |
 | **IaC**                        | Terraform, Ansible, Packer                       |
 | **Monitoring & Logging**       | Prometheus, Grafana, ELK Stack, Telegraf         |
-| **Web Servers & Caching**      | Nginx, Apache, OpenResty, Redis, Memcached       |
+| **Web Servers & Caching**      | Nginx,OpenResty, Redis, kafka,                   |
 | **Scripting & Automation**     | Python, Bash, Groovy                             |
 
 
