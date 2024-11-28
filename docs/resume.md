@@ -71,6 +71,23 @@ permalink: /resume.html
   - Created and maintained detailed documentation for infrastructure processes and tools.  
   - Troubleshot and resolved high-priority production issues under tight SLAs.    
 
+### 🏢 Xeliumtech Solutions  
+👨‍💻 **Linux System Administrator (DevOps)** | 📍 Gurugram | 🗓️ Dec-15 – Nov-17
+
+  - Set up and configured **virtual machines** to host multiple websites using **LAMP stack** architecture.  
+  - Managed **GitLab servers**, ensuring efficient version control and repository administration.  
+  - Supervised and maintained **non-production infrastructure** to support testing and development environments.  
+  - Implemented best practices for server security, including firewalls, user management, and SSL configurations.
+  - Developed automation scripts to reduce manual tasks and improve operational efficiency. 
+
+### 🏢 Dental Council Of India (DCI)
+👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ Mar-13 – Dec-2015
+
+  - Provided hands-on support for **desktop and laptop users**, resolving technical issues promptly.   
+  - Managed and maintained **MS SQL Server** and ensured smooth operation of Windows-based applications.  
+  - Diagnosed and resolved **network connectivity issues** for office systems and development environments.  
+  - Performed regular maintenance and updates on **Windows and Linux servers** to ensure optimal performance.  
+  - Implemented backup and recovery strategies for critical **SQL Server databases**.
 
   </div>
   <div class="cell cell--12 cell--md-3 cell--lg-3 content" markdown="1">
@@ -131,26 +148,6 @@ permalink: /resume.html
 [![Portfolio](https://img.icons8.com/color/48/domain--v1.png)](https://harrythedevopsguy.github.io)
  
   </div>
-
-
-
-### 🏢 Xeliumtech Solutions  
-👨‍💻 **Linux System Administrator (DevOps)** | 📍 Gurugram | 🗓️ Dec-15 – Nov-17
-
-  - Set up and configured **virtual machines** to host multiple websites using **LAMP stack** architecture.  
-  - Managed **GitLab servers**, ensuring efficient version control and repository administration.  
-  - Supervised and maintained **non-production infrastructure** to support testing and development environments.  
-  - Implemented best practices for server security, including firewalls, user management, and SSL configurations.
-  - Developed automation scripts to reduce manual tasks and improve operational efficiency. 
-
-### 🏢 Dental Council Of India (DCI)
-👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ Mar-13 – Dec-2015
-
-  - Provided hands-on support for **desktop and laptop users**, resolving technical issues promptly.   
-  - Managed and maintained **MS SQL Server** and ensured smooth operation of Windows-based applications.  
-  - Diagnosed and resolved **network connectivity issues** for office systems and development environments.  
-  - Performed regular maintenance and updates on **Windows and Linux servers** to ensure optimal performance.  
-  - Implemented backup and recovery strategies for critical **SQL Server databases**.
 
 ### 🌟 **Let’s connect and build scalable solutions together!**
 
