@@ -33,7 +33,7 @@ permalink: /resume.html
   <div class="cell cell--12 cell--md-9 cell--lg-9 content pr-2" style="text-align: justify;" markdown="1">
 
 ## 📝 **Professional Summary** 
-🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
+🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation, CI/CD pipelines, and infrastructure as code (IaC)**. Proficient in tools like **Terraform, Ansible, Packer, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Adept at delivering scalable, secure, and highly available solutions. A collaborative professional who bridges development and operations.
 
 ## 💼 Work Experience
 
