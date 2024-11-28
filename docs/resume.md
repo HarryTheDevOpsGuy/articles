@@ -150,7 +150,6 @@ permalink: /resume.html
   </div>
 </div>
 
-
 ## 🐙 Developed By Me
 - 🚀 **[BG Deployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)**: Developed a Shell-Based Blue-Green Deployment Solution.
 - 🚀 **[mCert](https://github.com/HarryTheDevOpsGuy/mCert)**: Developed Shell Based Utility to monitor SSL Certificate expiration and Notify alert on Slack, telegraf, email.
@@ -159,6 +158,13 @@ permalink: /resume.html
 - 🚀 **[gCrypt](https://harrythedevopsguy.github.io/articles/docs/apps/gcrypt)**: Developed wrapper of git-crypt to simlify to encrypt/secure sensitive data in repo. provide access to users. 
 - 🚀 **[mStatus](https://harrythedevopsguy.github.io/articles/docs/apps/mstatus)**: A Powerful utility to Check SSL and Website Status. Get notification instantly if anything goes wrong. 
 - 🚀 **[mSend](https://github.com/HarryTheDevOpsGuy/mSend)**: Tiny utility to send HTML Email Notifications.
+
+### 🔧 Deployed Solution as code
+  - 🚀 **[Jenkins as a Code](#)**: developed a solution to **provision**, **deploy**, manage **100% jenkins as code**.
+  - 🚀 **[AWS Golden AMI Creation](#)**: Developed and configured **Jenkins** pipeline to Create Golden AMI as per project needs.
+  - 🚀 **[EKS Cluster Management](#)**: Designed solution to Provision & Manage EKS cluster as code using **Terrform**, **Helmfile**, **Jenkins**, etc. 
+  - 🚀 **[Openresty/Nginx Detailed Monitoring ](#)**: Developed **Lua script** to enable detailed **nginx/openresty** monitoring. 
+  - 🚀 **[User Mangement Ansible Role](#)**: Developed Dynamic ansible role to create & manage Linux users as per project needs.
 
 ### 🌟 **Let’s connect and build scalable solutions together!**
 
