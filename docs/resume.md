@@ -46,7 +46,7 @@ permalink: /resume.html
 - 🛡️ **Security & Compliance**: Knowledge in security best practices, including **CIS Linux hardening**, vulnerability patching, encryption (Git-crypt) and managing sensitive data with **Vault**.
 - 📦 **Automation & Scripting**: Proficiency in **Bash**, **Python**, and **Groovy** scripting for automation tasks and system integration.
 - 📊 **Monitoring & Logging**: Experienced in setting up and managing monitoring/logging systems using **Prometheus**, **Grafana**, **ELK Stack**, and **CloudWatch**.
-- 🌐 **Web & Application Servers**: Hands-on experience with **Nginx**, **Apache**, **Tomcat**, **OpenResty**
+- 🌐 **Web & Application Servers**: Hands-on experience with **Nginx**, **Apache**, **Tomcat**, **OpenResty**.
 
 
 ## 💼 Work Experience
