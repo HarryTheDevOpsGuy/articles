@@ -41,13 +41,13 @@ permalink: /resume.html
 👨‍💻 **Sr. DevOps Lead** | 📍 Noida | 🗓️ Mar-20 – Present 
 
   - 🔧 Developed a **fully automated blue-green deployment pipeline** with **zero downtime** using **Jenkins**, **AWS ALB**, **ASG**, and **CloudWatch**. 
-  - 👥 Created dynamic **Ansible roles** to manage Linux users (read-only and sudo) across **5,000+ servers**. 
-  - ☁️ **Managed infrastructure as Code**, leveraging **Terraform**, **Ansible**, **Packer**, and **AWS**, ensuring scalability and reliability.
+  - 👥 Created dynamic **Ansible roles** to manage Linux users (read-only and sudo).
+  - ☁️ **Managed infrastructure as Code**, leveraging **Terraform**, **Ansible**, **Packer**, and **AWS**.
   - 📦 Built **automated golden AMIs**, ensuring timely **security patching** and Linux hardening.
-  - 🔄 Designed and maintained **CI/CD pipelines**, enabling automated deployments across environments.
+  - 🔄 Designed and maintained **CI/CD pipelines**, enabling automated deployments for prod & nonprod.
   - 📊 Configured **Prometheus**, **Grafana**, and **ELK Stack** for comprehensive **monitoring and logging**.
   - 🎯 Led a team of **DevOps engineers**, providing mentorship and support.
-  - 🕸️ Managed **Kubernetes clusters** and implemented CI/CD pipelines as code using **ArgoCD**, **Helm**, and **Helmfile**.
+  - 🕸️ Managed **EKS clusters** and CI/CD pipelines as code using **ArgoCD**, **Helm**, and **Helmfile**.
 
 
 ### 🏢 Ziploan
