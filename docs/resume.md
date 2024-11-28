@@ -81,6 +81,7 @@ permalink: /resume.html
   - Implemented security best practices such as **SSL** configurations and **user management**.
   - Created AWS infrastructure (EC2, SG, Keypair, S3, ALB, etc) using **Terraform**, **Ansible**.
   - Written **Shell scripts** to perform adhoc task on **ubuntu** servers.
+  - Managed Multiple website on Single web servers with **nginx**.
 
 ### 🏢 Dental Council Of India (DCI)
 👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ Mar-13 – Dec-2015
