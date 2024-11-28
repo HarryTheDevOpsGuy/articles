@@ -41,7 +41,7 @@ permalink: /resume.html
 👨‍💻 **Sr. DevOps Lead** | 📍 Noida | 🗓️ Mar-20 – Present 
 
   - 🔧 Developed a fully automated **blue-green deployment** pipeline with **0 downtime** using **Jenkins, AWS ALB and ASG,Cloudwatch**.
-  - 👥 Created a robust **Ansible role* to automate Linux user and sudo privilege management across 5,000+ servers
+  - 👥 **Linux User Management**: Created dynamic **Ansible** roles to efficiently manage **Linux user** accounts, including read-only and sudo privileges, across 5,000+ servers.
   - ☁️ **Cloud Infrastructure Management**: Oversee and manage cloud infrastructure, leveraging tools such as **Terraform**, **Ansible**, **Jenkins**, **Packer**, and **AWS** to ensure scalable, efficient, and reliable environments.
   - 📦 **Automated AMI Creation & Security**: Develop and maintain automated golden AMIs, ensuring timely security patching and Linux hardening to mitigate security vulnerabilities and maintain compliance with industry standards.
   - 🔄 **CI/CD Pipeline Provisioning**: Design, provision, and maintain CI/CD pipelines to enable automated deployments of applications across different environments, ensuring smooth and reliable release processes.
