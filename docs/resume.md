@@ -149,7 +149,7 @@ permalink: /resume.html
  
   </div>
 
-----
+
 🌟 **Let’s connect and build scalable solutions together!**
 
 </div>
