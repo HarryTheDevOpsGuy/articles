@@ -148,10 +148,17 @@ permalink: /resume.html
 [![Portfolio](https://img.icons8.com/color/48/domain--v1.png)](https://harrythedevopsguy.github.io)
  
   </div>
+</div>
 
 ### 🌟 **Let’s connect and build scalable solutions together!**
 
-</div>
+
+## 🐙 Developed Custom Solutions
+- **[mCert](https://github.com/HarryTheDevOpsGuy/mCert)**: Developed Shell Based Utility to monitor SSL Certificate expiration and Notify alert on Slack, telegraf, email.
+- **[BGDeployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)**: Developed custom Bluegreen deployment solution with Zero Downtime. 
+
+
+
 <!-- Below is not printable -->
 <div class="d-print-none" markdown="1">
 
