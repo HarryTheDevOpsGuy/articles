@@ -171,7 +171,8 @@ permalink: /resume.html
   - 🚀 **[CIS Linux Hardening](#)**: Developed ansible role to [hardening Linux server as per CIS benchmark](https://www.cisecurity.org/benchmark/amazon_linux)
   - 🚀 **[Mastery in Karpenter](#)**: Deployed Karpenter to manage EKS worker node dynamically to reduce cost.
 
-### 🌟 **Let’s connect and build scalable solutions together!**
+## ✨ **Footer** 
+_Thank you for considering my application. I look forward to the opportunity to contribute my skills and expertise to your team._ 
 
 
 <!-- Below is not printable -->
