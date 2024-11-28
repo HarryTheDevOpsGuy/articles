@@ -165,6 +165,7 @@ permalink: /resume.html
   - 🚀 **[EKS Cluster Management](#)**: Designed solution to Provision & Manage EKS cluster as code using **Terrform**, **Helmfile**, **Jenkins**, etc. 
   - 🚀 **[Openresty/Nginx Detailed Monitoring ](#)**: Developed **Lua script** to enable detailed **nginx/openresty** monitoring. 
   - 🚀 **[User Mangement Ansible Role](#)**: Developed Dynamic ansible role to create & manage Linux users as per project needs.
+  - 🚀 **[CIS Linux Hardening](#)**: Developed ansible role to [hardening Linux server as per CIS benchmark](https://www.cisecurity.org/benchmark/amazon_linux)
 
 ### 🌟 **Let’s connect and build scalable solutions together!**
 
