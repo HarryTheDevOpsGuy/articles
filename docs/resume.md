@@ -165,7 +165,7 @@ permalink: /resume.html
   </div>
 </div>
 
-## 🐙 Developed By Me
+## 👨‍💻 Developed By Me
 - 🚀 **[BG Deployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)**: Shell-based Blue-Green Deployment solution.
 - 🛡️ **[mCert](https://github.com/HarryTheDevOpsGuy/mCert)**: Utility to monitor SSL certificate expiration and notify via Slack, Telegraf, and email.
 - 🔍 **[mTracker](https://github.com/HarryTheDevOpsGuy/mTracker)**: Utility to monitor Linux user activity and send Slack notifications.
