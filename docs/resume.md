@@ -40,52 +40,52 @@ permalink: /resume.html
 ### 🏢 One97 Communications Limited
 👨‍💻 **Sr. DevOps Lead** | 📍 Noida | 🗓️ Mar-20 – Present 
 
-  - 🔧 Developed a fully automated **blue-green deployment** pipeline with **0 downtime** using **Jenkins, AWS ALB and ASG,Cloudwatch**.
-  - 👥 **Linux User Management**: Created dynamic **Ansible** roles to efficiently manage **Linux user** accounts, including read-only and sudo privileges, across 5,000+ servers.
-  - ☁️ **Cloud Infrastructure Management**: Oversee and manage cloud infrastructure, leveraging tools such as **Terraform**, **Ansible**, **Jenkins**, **Packer**, and **AWS** to ensure scalable, efficient, and reliable environments.
-  - 📦 **Automated AMI Creation & Security**: Develop and maintain automated golden AMIs, ensuring timely security patching and Linux hardening to mitigate security vulnerabilities and maintain compliance with industry standards.
-  - 🔄 **CI/CD Pipeline Provisioning**: Design, provision, and maintain CI/CD pipelines to enable automated deployments of applications across different environments, ensuring smooth and reliable release processes.
-  - 📊 **Monitoring & Logging Setup**: Implement and configure comprehensive monitoring and logging systems to track and maintain production infrastructure health, leveraging tools like **Prometheus**, **Grafana**, **ELK**, and **CloudWatch**.
-  - 🎯 **Team Management & Mentorship**: Lead and manage a small team of DevOps engineers, providing guidance, mentorship, and support to help them grow and succeed in their roles.
-  - 🕸️ **Kubernetes & Application Management**: Manage Kubernetes clusters and implement **CI/CD** pipelines as code using **ArgoCD**, **Helm**, and **Helmfile**, ensuring efficient and scalable application deployments.
+  - 🔧 Developed a **fully automated blue-green deployment pipeline** with **zero downtime** using **Jenkins**, **AWS ALB**, **ASG**, and **CloudWatch**. 
+  - 👥 **Linux User Management**: Created dynamic **Ansible roles** to manage Linux users (read-only and sudo) across **5,000+ servers**. 
+  - ☁️ **Cloud Infrastructure Management**: **Managed infrastructure as Code**, leveraging **Terraform**, **Ansible**, **Packer**, and **AWS**, ensuring scalability and reliability.
+  - 📦 **Automated AMI Creation & Security**: Built **automated golden AMIs**, ensuring timely **security patching** and Linux hardening.
+  - 🔄 **CI/CD Pipeline Provisioning**: Designed and maintained **CI/CD pipelines**, enabling automated deployments across environments.
+  - 📊 **Monitoring & Logging Setup**: Configured **Prometheus**, **Grafana**, and **ELK Stack** for comprehensive **monitoring and logging**.
+  - 🎯 **Team Management & Mentorship**: Led a team of **DevOps engineers**, providing mentorship and support.
+  - 🕸️ **Kubernetes & Application Management**: Managed **Kubernetes clusters** and implemented CI/CD pipelines as code using **ArgoCD**, **Helm**, and **Helmfile**.
+
+
+
 
 ### 🏢 Ziploan
 👨‍💻 **Sr. DevOps Engineer** | 📍 Delhi | 🗓️ Oct-19 – Mar-20
 
-  - Moved applications from on-premises to **AWS**, cutting hosting costs by 50%.  
-  - Set up **blue-green deployments** with **ALB**, **ASG**, and **Jenkins** for seamless updates.  
-  - Built and fine-tuned the **ELK stack** for centralized logging and live data analysis.  
-  - Used **Packer** to automate server builds, speeding up setup by 60%.  
+  - Migrated on-premises applications to **AWS**, cutting hosting costs by **50%**.  
+  - Implemented **blue-green deployments** with **ALB**, **ASG**, and **Jenkins**.  
+  - Optimized centralized logging with **ELK Stack** for real-time data analysis. 
+  - Automated Application deployments using **Jenkins**, reducing setup time by **60%**.  
   - Wrote **Ansible roles** to automate Linux setup and software installations.  
-  - Developed **Jenkins pipelines** using Groovy scripts for efficient CI/CD.
+  - Developed **Jenkins pipelines** using **Groovy scripts** for seamless CI/CD.
 
 ### 🏢 KiwiTech 
 👨‍💻 **DevOps Engineer** | 📍 Noida | 🗓️ Nov-17 – Oct-19
+  - Managed **100+ Linux servers** supporting mission-critical applications.  
+  - Automated deployments with **Jenkins** and **Ansible** for consistency and speed.  
+  - Set up **AWS CloudWatch**, **SNS**, and **Lambda** for monitoring and alerting.  
+  - Built new infrastructure from scratch, ensuring seamless **go-live support**.  
+  - Troubleshot high-priority production issues under strict SLAs.
 
-  - Maintained and managed over 100+ **Linux servers** supporting mission-critical applications.  
-  - Automated deployment workflows with **Jenkins** and **Ansible** for faster and consistent releases.  
-  - Built and provisioned new infrastructure from scratch, ensuring seamless go-live support.  
-  - Set up **AWS CloudWatch**, **SNS**, and **Lambda functions** for monitoring and alerting critical systems.  
-  - Optimized server configurations for performance, security, and scalability.    
-  - Designed robust automation scripts to reduce manual tasks and improve operational efficiency.  
-  - Created and maintained detailed documentation for infrastructure processes and tools.  
-  - Troubleshot and resolved high-priority production issues under tight SLAs.    
 
 ### 🏢 Xeliumtech Solutions  
 👨‍💻 **Linux System Administrator (DevOps)** | 📍 Gurugram | 🗓️ Dec-15 – Nov-17
 
-  - Set up and configured **virtual machines** to host multiple websites using **LAMP stack** architecture.  
-  - Managed **GitLab servers**, ensuring efficient version control and repository administration.  
-  - Supervised and maintained **non-production infrastructure** to support testing and development environments.  
-  - Implemented best practices for server security, including firewalls, user management, and SSL configurations.
-  - Developed automation scripts to reduce manual tasks and improve operational efficiency. 
+  - Configured virtual machines to host multiple websites with **LAMP stack architecture**.  
+  - Administered **GitLab servers**, managing repositories and version control.  
+  - Maintained non-production infrastructure to support testing and development.
+  - Developed automation scripts to reduce manual tasks and improve operational efficiency.
+  - Implemented security best practices such as **SSL** configurations and **user management**.
 
 ### 🏢 Dental Council Of India (DCI)
 👨‍💻 **Desktop Support Engineer** | 📍 Delhi | 🗓️ Mar-13 – Dec-2015
 
-  - Provided hands-on support for **desktop and laptop users**, resolving technical issues promptly.   
-  - Managed and maintained **MS SQL Server** and ensured smooth operation of Windows-based applications.  
-  - Diagnosed and resolved **network connectivity issues** for office systems and development environments.  
+  - Supported **desktop and laptop users**, resolving technical issues promptly.
+  - Managed **MS SQL Server** and ensured smooth operation of Windows applications. 
+  - Diagnosed and resolved **network connectivity** issues in office systems.  
   - Performed regular maintenance and updates on **Windows and Linux servers** to ensure optimal performance.  
   - Implemented backup and recovery strategies for critical **SQL Server databases**.
 
