@@ -35,6 +35,21 @@ permalink: /resume.html
 ## 📝 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation**, **CI/CD pipelines**, and **infrastructure as code (IaC)**. Proficient in tools like **Terraform, Ansible, Packer, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Skilled in designing scalable, secure, and highly available systems. Strong collaboration skills with a focus on bridging the gap between development and operations
 
+
+## Tools & Technologies
+
+| **Category**                  | **Tools**                                         |
+|-------------------------------|--------------------------------------------------|
+| **Cloud Platforms**            | AWS (EC2, S3, RDS, Lambda, EKS), GCP, Azure      |
+| **CI/CD**                      | Jenkins, GitHub Actions, GitLab CI/CD, ArgoCD    |
+| **Containerization**           | Docker, Kubernetes, Helm, Karpenter              |
+| **IaC**                        | Terraform, Ansible, Packer                       |
+| **Monitoring & Logging**       | Prometheus, Grafana, ELK Stack, Telegraf         |
+| **Web Servers & Caching**      | Nginx, Apache, OpenResty, Redis, Memcached       |
+| **Scripting & Automation**     | Python, Bash, Groovy                             |
+
+
+
 ## 💼 Work Experience
 
 ### 🏢 One97 Communications Limited
