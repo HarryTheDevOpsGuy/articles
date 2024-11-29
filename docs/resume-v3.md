@@ -17,6 +17,7 @@ permalink: /resume-v3.html
 
 ![Hari Prasad](https://harrythedevopsguy.github.io/img/harry/4.jpg){:.border.rounded}{:style="max-height:80px"} 
 
+
   </div>
   <div class="cell cell--shrink content" markdown="1">
 
@@ -33,20 +34,19 @@ permalink: /resume-v3.html
   <div class="cell cell--12 cell--md-9 cell--lg-9 content pr-2" style="text-align: justify;" markdown="1">
 
 ## 📝 **Professional Summary** 
-🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation**, **CI/CD pipelines**, and **infrastructure as code (IaC)**. Proficient in tools like **Terraform, Ansible, Packer, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Skilled in designing scalable, secure, and highly available systems. Strong collaboration skills with a focus on bridging the gap between development and operations
+🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation**, **CI/CD pipelines**, and **infrastructure as code (IaC)**. Proficient in tools like **Terraform, Ansible, Packer, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Skilled in designing scalable, secure, and highly available systems. Strong collaboration skills with a focus on bridging the gap between development and operations.
 
 
-## 🎯 DevOps Skills
-
-- 🚀 **CI/CD Automation**: Proficient in creating and maintaining automated CI/CD pipelines using **Jenkins**, **ArgoCD**, and **GitHub Actions**.
-- ☁️ **Cloud Infrastructure Management**: Expertise in managing AWS services like EC2, S3, RDS, VPC, IAM, CloudWatch, Secrets, Route 53, Lambda, and more.
+## 🎯 Technical Skills
+- ⚡ **Infrastructure as Code (IaC)**: Provision, deploy, and manage entire **infrastructure as code** with **Terraform**, **Ansible**, **Jenkins**, **Groovy** and **shell** script.
+- 🚀 **CI/CD Automation**: Proficient in creating and maintaining automated CI/CD pipelines using **Jenkins**, **ArgoCD**, and **GitHub Actions** for Java, Nodejs, php, python etc applications.
+- ☁️ **Cloud Infrastructure Management**: Expertise in managing **AWS** services like EC2, S3, RDS, VPC, IAM, CloudWatch, Secrets, Route 53, Lambda, and more.
 - 🔧 **Configuration Management**: Strong experience with **Ansible**, **Terraform**, and **Packer** for automating system configuration, provisioning, and infrastructure management.
-- ⚡ **Infrastructure as Code (IaC)**: Proficient in using **Terraform** and **Ansible** to manage infrastructure as code and ensure repeatable deployments.
 - 🐳 **Containerization & Orchestration**: Hands-on experience with **Docker**, **Kubernetes**, **Helm**, **Karpenter** and **EKS** for containerized application deployment and management.
-- 🛡️ **Security & Compliance**: Knowledge in security best practices, including **CIS Linux hardening**, vulnerability patching, encryption (Git-crypt) and managing sensitive data with **Vault**.
-- 📦 **Automation & Scripting**: Proficiency in **Bash**, **Python**, and **Groovy** scripting for automation tasks and system integration.
-- 📊 **Monitoring & Logging**: Experienced in setting up and managing monitoring/logging systems using **Prometheus**, **Grafana**, **ELK Stack**, and **CloudWatch**.
-- 🌐 **Web & Application Servers**: Hands-on experience with **Nginx**, **Apache**, **Tomcat**, **OpenResty**.
+- 🛡️ **Security & Compliance**: Knowledge in security best practices, including **CIS Linux hardening**, vulnerability patching and managing sensitive data with **Vault**.
+- 📦 **Automation & Scripting**: Proficiency in **scripting** to **develop** custom tool to automate manual and repeated task.
+- 📊 **Monitoring & Logging**: Experienced in setting up and managing monitoring/logging systems using **Prometheus**, **Grafana**, **ELK Stack**, **Telegraf**, **Prometheus Exporters** and **CloudWatch**.
+- 🌐 **Web & Application Servers**: Hands-on experience with **Nginx**, **Apache**, **Tomcat**, **OpenResty** and Springboot.
 
 
 ## 💼 Work Experience
@@ -54,14 +54,17 @@ permalink: /resume-v3.html
 ### 🏢 One97 Communications Limited
 👨‍💻 **Sr. DevOps Lead** | 📍 Noida | 🗓️ Mar-20 – Present 
 
-  - Developed a **fully automated blue-green deployment pipeline** with **zero downtime** using **Jenkins**, **AWS ALB**, **ASG**, and **CloudWatch**. 
-  - Created dynamic **Ansible roles** to manage Linux users (read-only and sudo).
+  - Developed [BG Deployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)** a **fully automated blue-green deployment pipeline** with **zero downtime** using **Jenkins**, **AWS ALB**, **ASG**, and **CloudWatch**.
   - **Managed infrastructure as Code**, leveraging **Terraform**, **Ansible**, **Packer**, and **AWS**.
-  - Built **automated golden AMIs**, ensuring timely **security patching** and Linux hardening.
+  - Built **golden AMIs** with **Packer**, ensuring timely **security patching** and Linux hardening.
   - Designed and maintained **CI/CD pipelines**, enabling automated deployments for prod & nonprod.
   - Configured **Prometheus**, **Grafana**, and **ELK Stack** for comprehensive **monitoring and logging**.
   - Led a team of **DevOps engineers**, providing mentorship and support.
   - Managed **EKS clusters** and CI/CD pipelines as code using **ArgoCD**, **Helm**, and **Helmfile**.
+  - Developed Lua script & Integrated with Openresty get Advanced Requests metrics(5xx,4xx,2xx,latency,etc).
+  - Mastery in **Karpenter** for dynamic EKS worker node management to reduce costs.
+  - Built & implemented dynamic **Linux user management** with **Ansible** Role.
+
 
 
 ### 🏢 Ziploan
@@ -161,6 +164,7 @@ permalink: /resume-v3.html
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
 [![Github](https://img.icons8.com/fluency/48/github.png)](https://github.com/HarryTheDevOpsGuy)
 [![Portfolio](https://img.icons8.com/color/48/domain--v1.png)](https://harrythedevopsguy.github.io)
+<br>**📞 HarryTheDevOpsGuy@gmail.com**
  
   </div>
 </div>
@@ -173,15 +177,6 @@ permalink: /resume-v3.html
 - **[gCrypt](https://harrythedevopsguy.github.io/articles/docs/apps/gcrypt)**: Git-crypt wrapper for secure repo data encryption and user access control.
 - **[mStatus](https://harrythedevopsguy.github.io/articles/docs/apps/mstatus)**: Utility to check SSL and website status with instant notifications on failures.
 - **[mSend](https://github.com/HarryTheDevOpsGuy/mSend)**: Utility to send HTML email notifications.
-
-## 🔧 Deployed Solution as Code
-- **[Jenkins as Code](#)**: Provision, deploy, and manage Jenkins entirely as code.
-- **[AWS Golden AMI Creation](#)**: Automated creation of golden AMIs via Jenkins pipeline.
-- **[EKS Cluster Management](#)**: Provision and manage EKS clusters as code using Terraform, Helmfile, and Jenkins.
-- **[OpenResty/Nginx Detailed Monitoring](#)**: Developed Lua script for detailed monitoring of Nginx/OpenResty.
-- **[User Management Ansible Role](#)**: Dynamic Ansible role for managing Linux users as per project needs.
-- **[CIS Linux Hardening](#)**: Developed Ansible role to harden Linux servers per [CIS benchmarks](https://www.cisecurity.org/benchmark/amazon_linux).
-- **[Mastery in Karpenter](#)**: Deployed Karpenter for dynamic EKS worker node management to reduce costs.
  
 
 ## ✨ **Footer** 
