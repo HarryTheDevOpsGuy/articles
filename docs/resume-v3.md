@@ -46,7 +46,7 @@ permalink: /resume-v3.html
 - 🛡️ **Security & Compliance**: Knowledge in security best practices, including **CIS Linux hardening**, vulnerability patching and managing sensitive data with **Vault**.
 - 📦 **Automation & Scripting**: Proficiency in **scripting** to **develop** custom tool to automate manual and repeated task.
 - 📊 **Monitoring & Logging**: Experienced in setting up and managing monitoring/logging systems using **Prometheus**, **Grafana**, **ELK Stack**, **Telegraf**, **Prometheus Exporters** and **CloudWatch**.
-- 🌐 **Web & Application Servers**: Hands-on experience with **Nginx**, **Apache**, **Tomcat**, **OpenResty** and Springboot.
+- 🌐 **Web & Application Servers**: Hands-on experience with **Nginx**, **Apache**, **Tomcat**, **OpenResty** and **Springboot**.
 
 
 ## 💼 Work Experience
@@ -115,11 +115,13 @@ permalink: /resume-v3.html
 ![Jenkins](https://img.icons8.com/color/48/jenkins.png)
 ![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
 ![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
+![Ansible](https://img.icons8.com/color/48/ansible.png)
 
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
 [AWS](#){:.button.button--outline-success.outline-success--rounded.button--sm}
 [Telegraf](#){:.button.button--outline-success.button--rounded.button--sm}
+[Redis](#){:.button.button--outline-info.button--rounded.button--sm}
 [Shell Script](#){:.button.button--outline-success.button--rounded.button--sm}
 [Terraform](#){:.button.button--outline-success.button--rounded.button--sm}
 [Kubernetes](#){:.button.button--outline-success.button--rounded.button--sm}
@@ -129,14 +131,13 @@ permalink: /resume-v3.html
 [ELK Stack](#){:.button.button--outline-success.button--rounded.button--sm}
 [Packer](#){:.button.button--outline-success.button--rounded.button--sm}
 [Nexus](#){:.button.button--outline-warning.button--rounded.button--sm}
-[Prometheus](#){:.button.button--outline-success.button--rounded.button--sm}
+[Nginx](#){:.button.button--outline-info.button--rounded.button--sm}
 [Groovy](#){:.button.button--outline-warning.button--rounded.button--sm}
 [Kafka](#){:.button.button--outline-info.button--rounded.button--sm}
 [OpenResty](#){:.button.button--outline-info.button--rounded.button--sm}
-[Nginx](#){:.button.button--outline-info.button--rounded.button--sm}
+[Prometheus](#){:.button.button--outline-success.button--rounded.button--sm}
 [Grafana](#){:.button.button--outline-info.button--rounded.button--sm}
 [Python](#){:.button.button--outline-info.button--rounded.button--sm}
-[Redis](#){:.button.button--outline-info.button--rounded.button--sm}
 [Helmfile](#){:.button.button--outline-warning.button--rounded.button--sm}
 [GitHub Actions](#){:.button.button--outline-warning.button--rounded.button--sm}
 
@@ -164,7 +165,8 @@ permalink: /resume-v3.html
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
 [![Github](https://img.icons8.com/fluency/48/github.png)](https://github.com/HarryTheDevOpsGuy)
 [![Portfolio](https://img.icons8.com/color/48/domain--v1.png)](https://harrythedevopsguy.github.io)
-<br>**📞 HarryTheDevOpsGuy@gmail.com**
+[![Gmail](https://img.icons8.com/fluency/32/gmail-new.png)](mailto:HarrytheDevOpsGuy@gmail.com)
+<br>📧 HarryTheDevOpsGuy@gmail.com
  
   </div>
 </div>
