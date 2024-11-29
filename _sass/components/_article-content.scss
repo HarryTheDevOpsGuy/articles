@@ -98,10 +98,6 @@
     }
   }
 
-  .print-button {  
-    transform: scale(0.8); 
-  }
-
   .highlighter-rouge > .highlight, figure.highlight {
     & > pre {
       padding: map-get($spacers, 3) 0 map-get($spacers, 3) map-get($spacers, 3);
@@ -223,4 +219,8 @@
       font-weight: map-get($base, font-weight-bold);
     }
   }
+}
+
+.print-button {  
+  transform: scale(0.8); 
 }
