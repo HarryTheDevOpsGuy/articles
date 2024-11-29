@@ -189,30 +189,7 @@ _Thank you for considering my application. I look forward to the opportunity to 
 <!-- Below is not printable -->
 <div class="d-print-none" markdown="1">
 
-## 🛠️ Notable Projects
-
-### 🌟 Blue-Green Deployment Solution 
-**BG-Deployer** - Build custom blue-green deployment tool in Shell script and implemented a blue-green deployment strategy using **AWS ALB, ASG**, and **CloudWatch**, achieving zero-downtime application releases.
-
-### 🌟 Enhanced Nginx/OpenResty Monitoring  
-Extended **Nginx metrics collection** for **Prometheus**, adding custom metrics such as SSL handshakes, api wise status code and p99 latencies, enabling precise performance analysis.
-
-### 🌟 Karpenter on EKS  
-Deployed **Karpenter** in **EKS clusters**, to manage worker nodes dynamically and minimise wastage of resources. 
-
-### 🌟 Packer All in one Solution  
-Build Dynamic AMI Creation solution using Shell Script, Packer, Ansible, Cloud-init, Jenkins to multi-platform(Dabian, and redhat) AWS Golden Images.
-
-## 📈 Personal Highlights
-
-  - 🏆 **Awarded Best DevOps Engineer** for automating CI/CD pipelines and optimizing cloud infrastructure.  
-  - ✍️ **Technical Blogger**: Published articles on **DevOps, Automation, Cloud, Linux** and **Kubernetes scaling** on [MyDigital Garden](https://harrythedevopsguy.github.io/articles/archive.html).  
-  - 👩‍💻 **Open Source Contributor**: Contributed to **Helm charts** for scaling applications. 
-
-## 🌐 Technical Blog Highlights  
-
-  - **"Configuring ModSecurity with OpenResty for Web Security"**  
-  - **"Kubernetes Cluster Scaling with Karpenter"**  
-  - **"Terraform Best Practices for Multi-Environment Deployments"**
+## 🙏 Thank You for Visiting! 🎉
+We appreciate your time and hope to see you again soon! 🚀
 
 </div>
