@@ -159,7 +159,7 @@ permalink: /resume-v3.html
 [mTracker](https://github.com/HarryTheDevOpsGuy/mTracker){:.button.button--outline-success.button--rounded.button--sm}
 [mWatcher](https://github.com/HarryTheDevOpsGuy/mWatcher){:.button.button--outline-success.button--rounded.button--sm}
 
-## ☎️ Contacts
+## ☎️ Contacts Info
 [![Contact me](assets/images/MyQR.png)](https://wa.me/917503721297?text=Hi)
 [![WhatsApp](https://img.icons8.com/color/48/whatsapp--v1.png)](https://wa.me/917503721297?text=Hi)
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/hari-prasad-verma-19b948154)
