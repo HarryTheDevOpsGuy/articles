@@ -36,6 +36,8 @@ permalink: /resume-v3.html
 ## 📝 **Professional Summary** 
 🌟 **11+ years of experience** in **DevOps engineering**, specializing in **cloud automation**, **CI/CD pipelines**, and **infrastructure as code (IaC)**. Proficient in tools like **Terraform, Ansible, Packer, Kubernetes, Docker, Jenkins**, and monitoring stacks (**Prometheus, ELK**). Skilled in designing scalable, secure, and highly available systems. Strong collaboration skills with a focus on bridging the gap between development and operations.
 
+## <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Technical Skills
+
 
 ## 🎯 Technical Skills
 - ⚡ **Infrastructure as Code (IaC)**: Provision, deploy, and manage entire **infrastructure as code** with **Terraform**, **Ansible**, **Jenkins**, **Groovy** and **shell** script.
@@ -117,6 +119,7 @@ permalink: /resume-v3.html
 ![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
 ![Ansible](https://img.icons8.com/color/48/ansible.png)
 ![fa-crown](fa-crown.svg)
+
 
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
