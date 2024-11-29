@@ -188,6 +188,7 @@ _Thank you for considering my application. I look forward to the opportunity to 
 
 <!-- Below is not printable -->
 <div class="d-print-none" markdown="1">
+<button class="print-button">Print This CV</button>
 
 ## 🙏 Thank You for Visiting! 🎉
 We appreciate your time and hope to see you again soon! 🚀
