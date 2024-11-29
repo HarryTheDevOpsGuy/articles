@@ -53,7 +53,7 @@ permalink: /resume-v3.html
 ### 🏢 One97 Communications Limited
 👨‍💻 **Sr. DevOps Lead** | 📍 Noida | 🗓️ Mar-20 – Present 
 
-  - Developed [BG Deployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)** a **fully automated blue-green deployment pipeline** with **zero downtime** using **Jenkins**, **AWS ALB**, **ASG**, and **CloudWatch**.
+  - Developed **[BG Deployer](https://harrythedevopsguy.github.io/articles/docs/apps/bgdeployerv3)** a **fully automated blue-green deployment pipeline** with **zero downtime** using **Jenkins**, **AWS ALB**, **ASG**, and **CloudWatch**.
   - **Managed infrastructure as Code**, leveraging **Terraform**, **Ansible**, **Packer**, and **AWS**.
   - Built **golden AMIs** with **Packer**, ensuring timely **security patching** and Linux hardening.
   - Designed and maintained **CI/CD pipelines**, enabling automated deployments for prod & nonprod.
