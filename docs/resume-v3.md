@@ -118,7 +118,6 @@ permalink: /resume-v3.html
 ![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
 ![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
 ![Ansible](https://img.icons8.com/color/48/ansible.png)
-![fa-crown](fa-crown.svg)
 
 
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
