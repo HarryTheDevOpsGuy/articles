@@ -116,6 +116,7 @@ permalink: /resume-v3.html
 ![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
 ![Kubernetes](https://img.icons8.com/color/48/kubernetes.png)
 ![Ansible](https://img.icons8.com/color/48/ansible.png)
+![fa-crown](fa-crown.svg)
 
 [Ansible](#){:.button.button--outline-success.button--rounded.button--sm}
 [Jenkins](#){:.button.button--outline-success.button--rounded.button--sm}
@@ -134,11 +135,11 @@ permalink: /resume-v3.html
 [Nginx](#){:.button.button--outline-info.button--rounded.button--sm}
 [Groovy](#){:.button.button--outline-warning.button--rounded.button--sm}
 [Kafka](#){:.button.button--outline-info.button--rounded.button--sm}
+[Helmfile](#){:.button.button--outline-warning.button--rounded.button--sm}
 [OpenResty](#){:.button.button--outline-info.button--rounded.button--sm}
 [Prometheus](#){:.button.button--outline-success.button--rounded.button--sm}
 [Grafana](#){:.button.button--outline-info.button--rounded.button--sm}
 [Python](#){:.button.button--outline-info.button--rounded.button--sm}
-[Helmfile](#){:.button.button--outline-warning.button--rounded.button--sm}
 [GitHub Actions](#){:.button.button--outline-warning.button--rounded.button--sm}
 
 ## 📚 Education
