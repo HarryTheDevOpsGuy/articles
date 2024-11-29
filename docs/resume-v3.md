@@ -167,6 +167,7 @@ permalink: /resume-v3.html
 [![Portfolio](https://img.icons8.com/color/48/domain--v1.png)](https://harrythedevopsguy.github.io)
 [![Gmail](https://img.icons8.com/fluency/32/gmail-new.png)](mailto:HarrytheDevOpsGuy@gmail.com)
 <br>📧 HarryTheDevOpsGuy@gmail.com
+<br>📞 7503721297
  
   </div>
 </div>
