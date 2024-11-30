@@ -12,4 +12,4 @@ aside:
 ---
 
 
-{% include_relative ../_data/resume.yml %}
+{% include_relative _data/resume.yml %}
