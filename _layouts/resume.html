@@ -3,27 +3,130 @@ layout: page
 type: article
 ---
 
-{%- include snippets/assign.html
-  target = site.data.variables.default.page.sharing
-  source0=layout.sharing source1=page.sharing -%}
-{%- assign _sharing = __return -%}
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  .header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  .header img {
+    border-radius: 50%;
+    border: 4px solid #fff;
+  }
+  .section-title {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+    margin-bottom: 15px;
+  }
+  .experience-timeline {
+    border-left: 2px solid #007bff;
+    margin-left: 10px;
+    padding-left: 20px;
+  }
+  .experience-timeline h4 {
+    color: #007bff;
+  }
+  .badge {
+    font-size: 14px;
+  }
+</style>
 
-<div class="layout--article">
-  {%- include article/top/custom.html -%}
 
-  <div class="article__content" itemprop="articleBody">{{ content }}</div>
-
-  {%- if _sharing -%}
-    <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
-  {%- endif -%}
-
-  <div class="d-print-none">
-    {%- include article-footer.html -%}
-    {%- include article-section-navigator.html -%}
-  </div>
-
+<div class="header">
+  <img src="https://via.placeholder.com/150" alt="Profile Picture" width="150">
+  <h1 id="name">Hari Prasad</h1>
+  <h3 id="title">Senior DevOps Engineer</h3>
+  <p id="contact">
+    <a href="mailto:HarryTheDevOpsGuy@gmail.com" class="text-white">HarryTheDevOpsGuy@gmail.com</a> |
+    <a href="https://linkedin.com/in/HarryTheDevOpsGuy" class="text-white">LinkedIn</a> |
+    <a href="https://github.com/HarryTheDevOpsGuy" class="text-white">GitHub</a>
+  </p>
 </div>
 
-<script>
-  {%- include scripts/article.js -%}
-</script>
+<div class="container mt-5">
+  <section id="summary">
+    <h2 class="section-title">Summary</h2>
+    <p>A Senior DevOps Engineer with over 11 years of experience, specializing in building and automating cloud infrastructure, CI/CD pipelines, and enhancing system performance. Proficient in a wide range of tools including AWS, Kubernetes, Docker, Jenkins, and Terraform.</p>
+  </section>
+
+  <section id="skills" class="row mt-4">
+    <div class="col-md-6">
+      <h2 class="section-title">Technical Skills</h2>
+      <ul class="list-unstyled">
+        <li class="badge bg-primary">AWS</li>
+        <li class="badge bg-primary">Docker</li>
+        <li class="badge bg-primary">Kubernetes</li>
+        <li class="badge bg-primary">Terraform</li>
+        <li class="badge bg-primary">Jenkins</li>
+        <li class="badge bg-primary">Ansible</li>
+        <li class="badge bg-primary">Linux</li>
+        <li class="badge bg-primary">Python</li>
+      </ul>
+    </div>
+    <div class="col-md-6">
+      <h2 class="section-title">Soft Skills</h2>
+      <ul class="list-unstyled">
+        <li class="badge bg-secondary">Team Collaboration</li>
+        <li class="badge bg-secondary">Problem Solving</li>
+        <li class="badge bg-secondary">Communication</li>
+        <li class="badge bg-secondary">Time Management</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="experience" class="mt-4">
+    <h2 class="section-title">Experience</h2>
+    <div class="experience-timeline">
+      <div>
+        <h4>Sr. DevOps Engineer</h4>
+        <small class="text-muted">ABC Communications Limited | 2020-03 - Present</small>
+        <ul>
+          <li>Led the automation of blue-green deployment pipelines with Jenkins and AWS.</li>
+          <li>Optimized cloud infrastructure, reducing costs by 40% using Terraform and AWS.</li>
+          <li>Implemented monitoring with Prometheus, Grafana, and ELK Stack for enhanced observability.</li>
+        </ul>
+      </div>
+      <div>
+        <h4>Systems Administrator</h4>
+        <small class="text-muted">Web Services LLC | 2018-06 - 2020-12</small>
+        <ul>
+          <li>Maintained and monitored Linux servers.</li>
+          <li>Implemented security measures and backups.</li>
+          <li>Provided technical support to clients.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="education-certifications" class="row mt-4">
+    <div class="col-md-6">
+      <h2 class="section-title">Education</h2>
+      <p><strong>Bachelor of Commerce</strong> - Delhi University (2014)</p>
+    </div>
+    <div class="col-md-6">
+      <h2 class="section-title">Certifications</h2>
+      <ul>
+        <li>AWS Certified Solutions Architect</li>
+        <li>Certified Kubernetes Administrator (CKA)</li>
+        <li>Docker Certified Associate</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="projects" class="mt-4">
+    <h2 class="section-title">Projects</h2>
+    <div>
+      <h4>Automated Deployment Pipeline</h4>
+      <p>Created a fully automated deployment pipeline for a microservices application using Docker, Kubernetes, and Jenkins.</p>
+    </div>
+    <div>
+      <h4>Infrastructure as Code</h4>
+      <p>Developed infrastructure as code using Terraform for a multi-tier application on AWS.</p>
+    </div>
+  </section>
+</div>
