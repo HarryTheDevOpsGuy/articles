@@ -1,0 +1,110 @@
+---
+layout: page
+type: article
+---
+
+<div class="resume">
+  <!-- Personal Information -->
+  <header class="personal-info">
+    <img src="{{ page.personal_info.profile_picture }}" alt="{{ page.personal_info.name }}" class="profile-picture">
+    <h1>{{ page.personal_info.name }}</h1>
+    <p>{{ page.personal_info.title }}</p>
+    <ul class="contact-info">
+      <li><a href="mailto:{{ page.personal_info.email }}">{{ page.personal_info.email }}</a></li>
+      <li>{{ page.personal_info.phone }}</li>
+      <li><a href="{{ page.personal_info.github }}">GitHub</a></li>
+      <li><a href="{{ page.personal_info.linkedin }}">LinkedIn</a></li>
+    </ul>
+  </header>
+
+  <!-- Summary -->
+  <section class="summary">
+    <h2>Summary</h2>
+    <p>{{ page.summary }}</p>
+  </section>
+
+  <!-- Skills -->
+  <section class="skills">
+    <h2>Skills</h2>
+    <h3>Technical Skills</h3>
+    <ul>
+      {% for skill in page.skills.technical %}
+      <li>{{ skill }}</li>
+      {% endfor %}
+    </ul>
+    <h3>Soft Skills</h3>
+    <ul>
+      {% for skill in page.skills.soft %}
+      <li>{{ skill }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <!-- Technical Skills -->
+  <section class="technical-skills">
+    <h2>Technical Expertise</h2>
+    <ul>
+      {% for skill in page.Technical_skill %}
+      <li>{{ skill }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <!-- Experience -->
+  <section class="experience">
+    <h2>Experience</h2>
+    {% for job in page.experience %}
+    <div class="job">
+      <h3>{{ job.job_title }} - {{ job.company }}</h3>
+      <p><em>{{ job.start_date }} - {{ job.end_date }}</em></p>
+      <ul>
+        {% for responsibility in job.responsibilities %}
+        <li>{{ responsibility }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </section>
+
+  <!-- Education -->
+  <section class="education">
+    <h2>Education</h2>
+    {% for degree in page.education %}
+    <div class="degree">
+      <h3>{{ degree.degree }}</h3>
+      <p>{{ degree.institution }} - {{ degree.year }}</p>
+    </div>
+    {% endfor %}
+  </section>
+
+  <!-- Certifications -->
+  <section class="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      {% for cert in page.certifications %}
+      <li>{{ cert }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <!-- Languages -->
+  <section class="languages">
+    <h2>Languages</h2>
+    <ul>
+      {% for lang in page.languages %}
+      <li>{{ lang }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <!-- Projects -->
+  <section class="projects">
+    <h2>Projects</h2>
+    {% for project in page.projects %}
+    <div class="project">
+      <h3>{{ project.title }}</h3>
+      <p>{{ project.description }}</p>
+    </div>
+    {% endfor %}
+  </section>
+</div>
