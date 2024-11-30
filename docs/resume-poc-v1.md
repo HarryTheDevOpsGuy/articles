@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: none
 title: Hari Prasad | DevOps Lead | 11+ Years
 key: myresume
 aside:
@@ -11,3 +11,4 @@ aside:
   toc: true
 ---
 
+# {{ site.data.resume.personal_info.name }}
